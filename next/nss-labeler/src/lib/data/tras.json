@@ -1,0 +1,762 @@
+[
+  {
+    "cat": "A01",
+    "def": "Bread, including garlic bread and other bread with add-ins, such as raisins, olives and cheese, but excluding sweet quick-type bread"
+  },
+  {
+    "cat": "A10",
+    "def": "Cookies, with or without coating or filling; graham wafers, macarons, coconut macaroons"
+  },
+  {
+    "cat": "A11",
+    "def": "Accompaniment crackers, hard bread sticks and melba toast"
+  },
+  {
+    "cat": "A12",
+    "def": "Snack crackers, crackers and cheese dip pack"
+  },
+  {
+    "cat": "A13",
+    "def": "Dry breads, matzo, pita crisps, baguette chips and rusks"
+  },
+  {
+    "cat": "A14",
+    "def": "Toaster pastries"
+  },
+  {
+    "cat": "A15",
+    "def": "Ice cream cones"
+  },
+  {
+    "cat": "A16",
+    "def": "Croutons"
+  },
+  {
+    "cat": "A17",
+    "def": "French toast, pancakes, crepes and waffles"
+  },
+  {
+    "cat": "A18",
+    "def": "Grain-based bars and clusters with filling or partial or full coating, such as granola bars, breakfast bars, trail mix bars including fruit and/or seed and nut-based bars"
+  },
+  {
+    "cat": "A19",
+    "def": "Grain-based bars and clusters without filling or coating, such as granola bars, breakfast bars, trail mix bars including fruit and/or seed and nut-based bars"
+  },
+  {
+    "cat": "A02",
+    "def": "Tea biscuits, scones, rolls, buns, Yorkshire pudding, English muffins, croissants, tortillas, pita, soft bread sticks, soft pretzels and corn bread, with or without filling or add-ins, such as raisins, olives and cheese"
+  },
+  {
+    "cat": "A20",
+    "def": "Energy and protein bars"
+  },
+  {
+    "cat": "A21",
+    "def": "Rice cakes and corn cakes"
+  },
+  {
+    "cat": "A22",
+    "def": "Pies, tarts, cobblers, turnovers, other pastries not listed as a separate item in column 1"
+  },
+  {
+    "cat": "A23",
+    "def": "Pie crust, including phyllo and puff pastry sheets"
+  },
+  {
+    "cat": "A24",
+    "def": "Pizza crust"
+  },
+  {
+    "cat": "A25",
+    "def": "Taco shell, hard"
+  },
+  {
+    "cat": "A26",
+    "def": "Eggroll, spring roll, wonton, dumpling, or pot sticker wrappers"
+  },
+  {
+    "cat": "A03",
+    "def": "Bagels, naan, flat bread"
+  },
+  {
+    "cat": "A04",
+    "def": "Brownies, dessert squares and bars"
+  },
+  {
+    "cat": "A05",
+    "def": "Heavy weight cake: 10g or more per 2.5 cm cube, such as cheese cake, pineapple upside-down, cake with at least 35% of the finished weight as fruit, nuts, or vegetables, or any of these combined, pound cake"
+  },
+  {
+    "cat": "A06",
+    "def": "Medium weight cake: 4g or more per 2.5 cm cube but less than 10 g per 2.5 cm cube, such as cake with or without icing or filling, cake with less than 35% of the finished weight as fruit, nuts or vegetables or any of these combined; light weight cake with icing; Boston cream pie, cupcakes, eclairs, or cream puffs, individually wrapped snack cakes such as Swiss rolls."
+  },
+  {
+    "cat": "A07",
+    "def": "Light weight cake: less than 4g per 2.5 cm cube, such as angel food, chiffon, or sponge cake without icing or filling"
+  },
+  {
+    "cat": "A08",
+    "def": "Coffee cakes, doughnuts, danishes, dessert perogies, sweet rolls, sweet quick-type breads and flaky type pastries, with or without filling and/or icing"
+  },
+  {
+    "cat": "A09",
+    "def": "Muffins"
+  },
+  {
+    "cat": "B01",
+    "def": "Carbonated and non-carbonated beverages, including energy drinks, water, coconut and maple water, kombucha, sports drinks and vitamin water\\n          \\n            Iced tea, including flavoured and sweetened\\n            Iced coffee and iced specialty coffee, including flavoured and sweetened\\n          \\n"
+  },
+  {
+    "cat": "B02",
+    "def": "Alcoholic beverages, includes mock versions containing no or low levels of alcohol:\\n          \\n            wine, sangria, spritzer\\n          \\n"
+  },
+  {
+    "cat": "B03",
+    "def": "Coffee:\\n          \\n            regular, beans (whole or ground) or pods,\\n            espresso, beans (whole or ground) or pods\\n          \\n"
+  },
+  {
+    "cat": "B04",
+    "def": "Tea, regularand herbal, loose leaves, bags or pods"
+  },
+  {
+    "cat": "B05",
+    "def": "Cocoa, chocolate and mocha beverages (hot)"
+  },
+  {
+    "cat": "C01",
+    "def": "Hot breakfast cereals, such as oatmeal, or cream of wheat"
+  },
+  {
+    "cat": "C10",
+    "def": "Starch, such as cornstarch, potato starch, tapioca starch or wheat starch"
+  },
+  {
+    "cat": "C11",
+    "def": "Stuffing"
+  },
+  {
+    "cat": "C02",
+    "def": "Ready-to-eat breakfast cereals, puffed and uncoated (weighing less than 20g per 250mL)"
+  },
+  {
+    "cat": "C03",
+    "def": "Ready-to-eat breakfast cereals, puffed and coated, flaked, extruded, without fruit or nuts (weighing 20g to 42g per 250mL), very high fibre cereals (with 28g or more fibre per 100g)"
+  },
+  {
+    "cat": "C04",
+    "def": "Ready-to-eat breakfast cereals, fruit and nut type, granola (weighing 43g or more per 250mL) and biscuit type cereals"
+  },
+  {
+    "cat": "C05",
+    "def": "Bran and wheat germ, pearl tapioca, milled flax, hemp and chia seeds"
+  },
+  {
+    "cat": "C06",
+    "def": "Flours and cornmeal, including rye, potato, corn, barley, sorghum, buckwheat flours and gluten-free blends, but not including nut and other flours listed in item O.4"
+  },
+  {
+    "cat": "C07",
+    "def": "Grains, such as rice or barley, including couscous and flavoured rice and grains"
+  },
+  {
+    "cat": "C08",
+    "def": "Pastas, noodles, all varieties, including filled pastas, gnocchi, gluten-free alternatives, without sauce"
+  },
+  {
+    "cat": "C09",
+    "def": "Pastas, dry and ready-to-eat, such as fried chow mein noodles"
+  },
+  {
+    "cat": "D01",
+    "def": "Cheese, including cream cheese and cheese spread, except those listed as a separate item in column 1"
+  },
+  {
+    "cat": "D01.01",
+    "def": "Cheese fondue preparation"
+  },
+  {
+    "cat": "D10",
+    "def": "Milk, evaporated or condensed"
+  },
+  {
+    "cat": "D11",
+    "def": "Milk, buttermilk and milk-based drinks, such as chocolate milk"
+  },
+  {
+    "cat": "D12",
+    "def": "Fermented dairy drinks such as kefir"
+  },
+  {
+    "cat": "D12.1",
+    "def": "Drinkable yogurts"
+  },
+  {
+    "cat": "D13",
+    "def": "Shakes and dairy-based smoothies, with or without coffee or juice, including protein shakes"
+  },
+  {
+    "cat": "D14",
+    "def": "Sour cream"
+  },
+  {
+    "cat": "D15",
+    "def": "Yogurt"
+  },
+  {
+    "cat": "D02",
+    "def": "Cottage cheese"
+  },
+  {
+    "cat": "D03",
+    "def": "Cheese used as an ingredient, such as dry cottage cheese or ricotta cheese"
+  },
+  {
+    "cat": "D04",
+    "def": "Hard cheese, including grated, such as parmesan or romano"
+  },
+  {
+    "cat": "D05",
+    "def": "Quark, fresh cheese and fresh dairy desserts"
+  },
+  {
+    "cat": "D06",
+    "def": "Cream, including creamer and milker cups, except those listed as separate item"
+  },
+  {
+    "cat": "D07",
+    "def": "Cream, powder"
+  },
+  {
+    "cat": "D08",
+    "def": "Cream, aerosol or whipped"
+  },
+  {
+    "cat": "D09",
+    "def": "Eggnog"
+  },
+  {
+    "cat": "E01",
+    "def": "Ice cream, ice milk, frozen yogurt, sherbet, other frozen dairy and non-dairy desserts sold in tubs, including sorbet and gelato"
+  },
+  {
+    "cat": "E02",
+    "def": "Ice cream, ice milk, frozen yogurt, sherbet, frozen dairy and non-dairy desserts sold as cakes, sandwiches or cones"
+  },
+  {
+    "cat": "E03",
+    "def": "Ice cream, ice milk, frozen yogurt, sherbet, other frozen dairy and non-dairy desserts sold as pops, bars or cups"
+  },
+  {
+    "cat": "E04",
+    "def": "Sundaes"
+  },
+  {
+    "cat": "E05",
+    "def": "Custard, gelatin and pudding, includes non-dairy products"
+  },
+  {
+    "cat": "E06",
+    "def": "Mousse, chiffon and other whipped desserts"
+  },
+  {
+    "cat": "F01",
+    "def": "Dessert toppings, such as glaze, maple butter and marshmallow cream"
+  },
+  {
+    "cat": "F02",
+    "def": "Cake frostings, icings, pastry creams and streusel topping"
+  },
+  {
+    "cat": "F03",
+    "def": "Pie fillings"
+  },
+  {
+    "cat": "G01",
+    "def": "Egg mixtures, such as egg foo young, scrambled eggs, omelettes, eggs in sauce"
+  },
+  {
+    "cat": "G02",
+    "def": "Eggs, including eggs in the shell, pickled eggs, liquid or dried whole egg and liquid egg-white"
+  },
+  {
+    "cat": "G03",
+    "def": "Egg substitutes"
+  },
+  {
+    "cat": "G04",
+    "def": "Small eggs, used as garnish, such as quail eggs"
+  },
+  {
+    "cat": "H01",
+    "def": "Butter, margarine, shortening, lard, solid coconut oil, butter-flavoured spread"
+  },
+  {
+    "cat": "H02",
+    "def": "Vegetable oil, including liquid coconut oil"
+  },
+  {
+    "cat": "H03",
+    "def": "Butter replacement, powder"
+  },
+  {
+    "cat": "H04",
+    "def": "Dressings for salad, dipping oil for bread (may contain vinegar or spices/herbs)"
+  },
+  {
+    "cat": "H05",
+    "def": "Mayonnaise, sandwich spread and mayonnaise-type dressing"
+  },
+  {
+    "cat": "H06",
+    "def": "Oil, spray type, including salad dressing spray"
+  },
+  {
+    "cat": "I01",
+    "def": "Anchovies, anchovy paste and caviar"
+  },
+  {
+    "cat": "I02",
+    "def": "Marine and fresh water animals with sauce, such as fish with cream sauce or shrimp with lobster sauce"
+  },
+  {
+    "cat": "I03",
+    "def": "Marine and fresh water animals without sauce, such as plain or fried fish or shellfish, or fish or shellfish cakes, with or without breading or batter"
+  },
+  {
+    "cat": "I04",
+    "def": "Marine and fresh water animals, including land snails, canned"
+  },
+  {
+    "cat": "I05",
+    "def": "Marine and fresh water animals, smoked or pickled, or spreads"
+  },
+  {
+    "cat": "J01",
+    "def": "Fruit, including fruit salad or mixed fruit, fresh, frozen or canned, coated or uncoated, except those listed as a separate item in column 1"
+  },
+  {
+    "cat": "J10",
+    "def": "Fruit relishes, cranberry sauce"
+  },
+  {
+    "cat": "J11",
+    "def": "Juices, nectars, fruit drinks represented for use as substitutes for fruit juices, and juice-based smoothies"
+  },
+  {
+    "cat": "J12",
+    "def": "Juices, used as ingredients, such as lemon juice or lime juice"
+  },
+  {
+    "cat": "J13",
+    "def": "Freeze-dried fruit"
+  },
+  {
+    "cat": "J14",
+    "def": "Fruit powder"
+  },
+  {
+    "cat": "J02",
+    "def": "Blueberries, raspberries, blackberries or a mixture of these"
+  },
+  {
+    "cat": "J03",
+    "def": "Watermelon, cantaloupe, honeydew and other melons or a mixture of these"
+  },
+  {
+    "cat": "J04",
+    "def": "Avocado"
+  },
+  {
+    "cat": "J05",
+    "def": "Cranberries, lemons and limes"
+  },
+  {
+    "cat": "J06",
+    "def": "Fruit sauces and purees, including mixtures of different fruits and/or vegetables"
+  },
+  {
+    "cat": "J07",
+    "def": "Dried fruit, including raisins, cranberries, apricots, prunes, dates, figs"
+  },
+  {
+    "cat": "J08",
+    "def": "Candied or pickled fruit"
+  },
+  {
+    "cat": "J09",
+    "def": "Fruit for garnish or flavour, such as maraschino cherries"
+  },
+  {
+    "cat": "K01",
+    "def": "Tofu (bean curd), egg tofu, or tempeh, without sauce"
+  },
+  {
+    "cat": "K01.01",
+    "def": "Tofu or tempeh with sauce, but excluding combination dishes"
+  },
+  {
+    "cat": "K02",
+    "def": "Beans, peas and lentils, such as white beans, kidney beans, romano beans, soybeans or chickpeas"
+  },
+  {
+    "cat": "K03",
+    "def": "Refried beans"
+  },
+  {
+    "cat": "K04",
+    "def": "Dried texturized soy protein and soy protein isolate"
+  },
+  {
+    "cat": "L01",
+    "def": "Pork rinds and bacon"
+  },
+  {
+    "cat": "L10",
+    "def": "Meat and poultry with sauce, such as meat in barbecue sauce or turkey with gravy, but excluding combination dishes"
+  },
+  {
+    "cat": "L11",
+    "def": "Meat or poultry sticks"
+  },
+  {
+    "cat": "L02",
+    "def": "Beef, pork and poultry breakfast strips"
+  },
+  {
+    "cat": "L03",
+    "def": "Dried meat and poultry, such as jerky, dried beef or parma ham, sausage products with a water activity of 0.90 or less, such as salami, dried thuringer or cervelat"
+  },
+  {
+    "cat": "L04",
+    "def": "Luncheon meats such as bologna, blood pudding, liver sausage, mortadella, ham and cheese loaf or headcheese; pâté, sandwich spread, potted meat food product; taco fillings; meat pie fillings and cretons"
+  },
+  {
+    "cat": "L05",
+    "def": "Sausage products, such as linked sausage, Vienna sausage, wieners, breakfast sausage, frankfurters, pork sausage, bratwurst, kielbasa, Polish sausage, summer sausage, smoked sausage, smoked country sausage, pepperoni, knackwurst, thuringer and cervelat, sausage made with combination of seafood and pork"
+  },
+  {
+    "cat": "L06",
+    "def": "Cuts of meat and poultry without sauce, and ready-to-cook cuts, with or without breading or batter, including marinated, tenderized and injected cuts, skewered meat and poultry, including kebabs and souvlaki, whole poultry (no stuffing)"
+  },
+  {
+    "cat": "L07",
+    "def": "Patties, including burger patties, cutlettes, chopettes, steakettes, meatballs, meatloaf, sausage meat and ground meat, with or without breading or batter, corn dog on a stick (breaded), nuggets, falafels"
+  },
+  {
+    "cat": "L08",
+    "def": "Cured meat and poultry products such as cured ham, dry cured ham, back bacon, cured pork back, dry cured cappicolo, corned beef, pastrami, country ham, cured pork shoulder picnic, poultry ham products, smoked meat or pickled meat"
+  },
+  {
+    "cat": "L09",
+    "def": "Canned meat and poultry"
+  },
+  {
+    "cat": "M01",
+    "def": "Baking powder, baking soda, pectin, baker's yeast, vanilla extract and other flavouring preparations"
+  },
+  {
+    "cat": "M10",
+    "def": "Spices and herbs, without salt"
+  },
+  {
+    "cat": "M11",
+    "def": "Coconut milk"
+  },
+  {
+    "cat": "M12",
+    "def": "Dried coconut, flakes, shredded"
+  },
+  {
+    "cat": "M13",
+    "def": "Edible insects, powdered, whole, including snacks"
+  },
+  {
+    "cat": "M14",
+    "def": "Soy lecithin"
+  },
+  {
+    "cat": "M15",
+    "def": "Bee pollen"
+  },
+  {
+    "cat": "M16",
+    "def": "Agar agar powder"
+  },
+  {
+    "cat": "M17",
+    "def": "Nutritional yeast"
+  },
+  {
+    "cat": "M02",
+    "def": "Baking decorations, such as coloured sugars or sprinkles for cookies"
+  },
+  {
+    "cat": "M03",
+    "def": "Bread crumbs and batter mixes"
+  },
+  {
+    "cat": "M04",
+    "def": "Cooking wine"
+  },
+  {
+    "cat": "M05",
+    "def": "Cocoa powder, carob powder, unsweetened"
+  },
+  {
+    "cat": "M06",
+    "def": "Non-alcoholic drink mixers, such as pina colada or daiquiri"
+  },
+  {
+    "cat": "M07",
+    "def": "Chewing gum"
+  },
+  {
+    "cat": "M08",
+    "def": "Salad and potato toppers, such as salad crunchies, salad crispins, bacon bits and their substitutes"
+  },
+  {
+    "cat": "M09",
+    "def": "Salt, salt substitutes and seasoned salts such as garlic salt and salt-based seasonings (which may contain herbs, spices, dehydrated vegetables, etc.), flavour enhancers, such as steak spice"
+  },
+  {
+    "cat": "N01",
+    "def": "Combination dishes, such as chicken and rice casserole, hash, macaroni and cheese with or without meat, spaghetti with sauce, lasagna, stir fry, meat or poultry casserole, baked beans, wieners and beans, meat chili, chili with beans, creamed chipped beef, beef or poultry ravioli with sauce, beef stroganoff, poultry à la king, Brunswick stew, goulash, stew, ragout, poutine, butter chicken with rice, shepherd's pie, stuffed cannelloni with sauce, stuffed poultry"
+  },
+  {
+    "cat": "N02",
+    "def": "Burritos, enchiladas, pizza, pizza rolls, sausage rolls, pastry rolls, cabbage rolls, quiche, sandwiches, crackers and meat or poultry lunch-type packages, gyros, burger on a bun, frank on a bun, calzones, tacos, pockets stuffed with meat, chicken cordon bleu, stuffed vegetables with meat or poultry, kabobs and souvlaki (meat and vegetables), empanadas, fajitas, sushi, perogies, souvlaki, pot pie, meat pie or tourtière, salad kit/bowl, consumed as a meal"
+  },
+  {
+    "cat": "N03",
+    "def": "Hors d'oeuvres, such as onion rings, dumplings, egg rolls, breaded zucchini sticks and other finger foods, such as mini quiches, cocktail sausage rolls and other stuffed puff pastries"
+  },
+  {
+    "cat": "O01",
+    "def": "Nuts and seeds, not for use as snacks: whole, chopped, sliced, slivered or ground"
+  },
+  {
+    "cat": "O02",
+    "def": "Pastes and creams, including marzipan"
+  },
+  {
+    "cat": "O03",
+    "def": "Peanut butter, nut butters and substitutes, such as coconut and soya butter, including tahini"
+  },
+  {
+    "cat": "O04",
+    "def": "Nut flours, such as almond flour and similar flours, including coconut, peanut and soya flours"
+  },
+  {
+    "cat": "P01",
+    "def": "French fries, including spirales, smiles, wedges, fried potatoes, grated potatoes, hash browns, potato skins and pancakes, sweet potato fries"
+  },
+  {
+    "cat": "P02",
+    "def": "Potatoes, sweet potatoes, yams, mashed, candied, stuffed or with sauce"
+  },
+  {
+    "cat": "P03",
+    "def": "Potatoes, sweet potatoes, yams, cassava, plantains, plain, fresh, canned or frozen"
+  },
+  {
+    "cat": "Q01",
+    "def": "Salads, such as egg, fish, shellfish, bean, vegetable including salad kit, broccoli salad and carrot salad, meat, ham or poultry salad, except those listed as a separate item in column 1"
+  },
+  {
+    "cat": "Q02",
+    "def": "Gelatin salad"
+  },
+  {
+    "cat": "Q03",
+    "def": "Pasta, potato, or grain-based (e.g. couscous, barley, wheat berry) salad"
+  },
+  {
+    "cat": "R01",
+    "def": "Sauces for dipping, such as barbecue, cocktail sauce, hollandaise, tartar, mustard or sweet and sour sauce, plum, cherry and pineapple sauce, satay and peanut sauce, Vietnamese and sweet chili dipping sauce, spare rib sauce, garlic sauce"
+  },
+  {
+    "cat": "R02",
+    "def": "Vegetable, legume or dairy-based dips, spreads and tapenades"
+  },
+  {
+    "cat": "R03",
+    "def": "Major main entrée sauce, such as spaghetti sauce, cooking sauces such as butter chicken sauce, curry sauce, pulled pork, sloppy Joe, garlic sauce, stir fry sauce"
+  },
+  {
+    "cat": "R04",
+    "def": "Minor main entrée sauce such as pizza sauce, pad thai sauce, pesto sauce, chicken wing sauce, or other sauces used as toppings such as white sauces, cheese sauce, salsa or gravy"
+  },
+  {
+    "cat": "R05",
+    "def": "Major condiments, such as ketchup, chili sauce, chutney, steak sauce, soy sauce, vinegar, fish sauce, clam juice, hoisin sauce, black bean sauce, teriyaki sauce, curry paste or marinades"
+  },
+  {
+    "cat": "R06",
+    "def": "Minor condiments, such as horseradish, capers, hot sauce, mustard, liquid smoke or Worcestershire sauce"
+  },
+  {
+    "cat": "R07",
+    "def": "Wasabi paste"
+  },
+  {
+    "cat": "S01",
+    "def": "Chips, pretzels, popcorn, includes coated versions, extruded snacks, grain and pulse-based snacks, pita chips and fruit-based snacks, such as fruit chips"
+  },
+  {
+    "cat": "S02",
+    "def": "Nuts or seeds, or a mixture of these, with or without chocolate, candies, dried fruit or other food added, for use as snacks"
+  },
+  {
+    "cat": "S03",
+    "def": "Roasted seaweed (nori), for use as snacks"
+  },
+  {
+    "cat": "T01",
+    "def": "\\n          All varieties of soup, including bouillon and broth\\n"
+  },
+  {
+    "cat": "T02",
+    "def": "Fondue cooking broths"
+  },
+  {
+    "cat": "U01",
+    "def": "Candies, confectionaries and chocolates, including a mixture of these with or without other food added, fudge, halva, chocolate bars and other chocolate products, such as yogurt and chocolate covered nuts and raisins, Halloween candy, box of assorted chocolates, except those listed as a separate item in column 1"
+  },
+  {
+    "cat": "U10",
+    "def": "Fruit leather, bar or mini pieces, that may or may not contain vegetable ingredients"
+  },
+  {
+    "cat": "U11",
+    "def": "Marshmallows"
+  },
+  {
+    "cat": "U12",
+    "def": "Sugars, except those listed as a separate item in column 1"
+  },
+  {
+    "cat": "U13",
+    "def": "Sugar substitute"
+  },
+  {
+    "cat": "U14",
+    "def": "Syrups used as toppings, such as pancake syrups, maple syrup, fruit syrups and ice cream sundae syrups"
+  },
+  {
+    "cat": "U15",
+    "def": "Syrups used as ingredients, such as corn syrup, agave syrup and flavoured syrups for milk"
+  },
+  {
+    "cat": "U02",
+    "def": "After-dinner confections"
+  },
+  {
+    "cat": "U03",
+    "def": "Hard candies, powdered or liquid candies, except those listed as a separate item in column 1"
+  },
+  {
+    "cat": "U04",
+    "def": "Baking chocolate and candies, such as chocolate chips and caramel bits"
+  },
+  {
+    "cat": "U05",
+    "def": "Breath mints"
+  },
+  {
+    "cat": "U06",
+    "def": "Roll-type hard candies and mini size hard candies in dispenser packages"
+  },
+  {
+    "cat": "U07",
+    "def": "Confectioner's or icing sugar"
+  },
+  {
+    "cat": "U08",
+    "def": "Honey, molasses and bread spreads"
+  },
+  {
+    "cat": "U09",
+    "def": "Jams, jellies, marmalades, fruit butters and spreads"
+  },
+  {
+    "cat": "V01",
+    "def": "Vegetables without sauce, including cream style corn and stewed tomatoes, artichoke hearts and hearts of palm, packed in water, lettuce, all varieties including blends, but not including vegetables without sauce listed as a separate item in column 1"
+  },
+  {
+    "cat": "V10",
+    "def": "Relish"
+  },
+  {
+    "cat": "V11",
+    "def": "Vegetable pastes, such as tomato paste"
+  },
+  {
+    "cat": "V12",
+    "def": "Vegetable sauce or purée, such as tomato sauce or tomato purée"
+  },
+  {
+    "cat": "V02",
+    "def": "Vegetables with sauce"
+  },
+  {
+    "cat": "V03",
+    "def": "Vegetables primarily used for garnish or flavouring, fresh, canned or frozen, but not dried, such as parsley or garlic"
+  },
+  {
+    "cat": "V04",
+    "def": "Chili pepper and green onion"
+  },
+  {
+    "cat": "V05",
+    "def": "Seaweed, dehydrated mushrooms"
+  },
+  {
+    "cat": "V06",
+    "def": "Sprouts"
+  },
+  {
+    "cat": "V07",
+    "def": "Vegetable juice and vegetable drink"
+  },
+  {
+    "cat": "V08",
+    "def": "Olives"
+  },
+  {
+    "cat": "V09",
+    "def": "Sun-dried tomatoes, artichoke hearts and other vegetables packed in oil, pickles, giardiniera, kimchi, sauerkraut and other pickled vegetables"
+  },
+  {
+    "cat": "W01",
+    "def": "Cereals, dry, instant, to be prepared with water, breast milk or infant formula"
+  },
+  {
+    "cat": "W02",
+    "def": "Ready-to-eat cereal and cereal bars, represented for children one year of age or older but less than four years of age"
+  },
+  {
+    "cat": "W03",
+    "def": "Cookies, teething biscuits, toasts, puffs and other finger foods, such as yogurt melts"
+  },
+  {
+    "cat": "W04",
+    "def": "Strained or junior meat, desserts, fruit, vegetables and combination dishes"
+  },
+  {
+    "cat": "W05",
+    "def": "Combination dishes represented for children one year of age or older but less than four years of age"
+  },
+  {
+    "cat": "W06",
+    "def": "Juices, all varieties and other beverages, excluding milk"
+  },
+  {
+    "cat": "W07",
+    "def": "Yogurt, represented for children one year of age or older but less than four years of age"
+  },
+  {
+    "cat": "X01",
+    "def": "Meal replacements or nutritional supplements, ready to consume or requiring preparation, such as drinks, shakes, soups, bars, puddings, cereal"
+  }
+]
