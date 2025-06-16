@@ -15,10 +15,10 @@ export default createTheme({
   palette: {
     mode: "light",
     primary: {
-      main: "#8C6057",
+      main: "#738089",
     },
     secondary: {
-      main: "#A69F98",
+      main: "#F78888",
     },
   },
 });

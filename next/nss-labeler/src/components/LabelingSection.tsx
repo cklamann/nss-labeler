@@ -191,7 +191,7 @@ interface LabelCardProps {
 const LabelCard: React.FC<LabelCardProps> = ({ record }) => (
   <Card sx={{ maxHeight: "500px", overflowY: "auto" }}>
     <CardHeader
-      sx={(theme) => ({ backgroundColor: theme.palette.secondary.light })}
+      sx={(theme) => ({ backgroundColor: theme.palette.primary.light })}
       title={<Typography>{getItemData(record).product_name}</Typography>}
     />
     <CardContent>

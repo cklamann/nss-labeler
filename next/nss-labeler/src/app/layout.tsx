@@ -3,16 +3,11 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import { AppRouterCacheProvider } from "@mui/material-nextjs/v14-appRouter";
 import CssBaseline from "@mui/material/CssBaseline";
-import {
-  AppBar,
-  Container,
-  Grid2 as Grid,
-  Toolbar,
-  Typography,
-} from "@mui/material";
+import { Container } from "@mui/material";
 import { ThemeProvider } from "@mui/material/styles";
 
 import theme from "@/lib/mui/theme";
+import { Header } from "@/components";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -36,17 +31,7 @@ export default function RootLayout({
           <ThemeProvider theme={theme}>
             <CssBaseline />
             <Container maxWidth="xl">
-              <AppBar
-                position="static"
-                color="primary"
-                sx={{ marginBottom: 3 }}
-              >
-                <Toolbar component={Grid} justifyContent="center">
-                  <Grid>
-                    <Typography variant="h3">NSS Labeler</Typography>
-                  </Grid>
-                </Toolbar>
-              </AppBar>
+              <Header />
               {children}
               {/* <Footer /> */}
             </Container>
