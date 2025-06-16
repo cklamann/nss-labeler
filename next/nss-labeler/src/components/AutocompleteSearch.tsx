@@ -17,13 +17,13 @@ const renderRow = (
         key: any;
       },
       NSSCode,
-      state: AutocompleteRenderOptionState
+      state: AutocompleteRenderOptionState,
     ][]
-  >
+  >,
 ) => {
   const { data, index, style } = props;
 
-  const [liProps, nssItem, autocompleteState] = data[index];
+  const [liProps, nssItem] = data[index];
 
   return (
     <ListItem
@@ -46,7 +46,7 @@ const OuterElementType = React.forwardRef<HTMLDivElement>(
   function OuterElementType(props, ref) {
     const outerProps = React.useContext(OuterElementContext);
     return <div ref={ref} {...props} {...outerProps} />;
-  }
+  },
 );
 
 const useResetCache = (data: any) => {
@@ -70,7 +70,7 @@ const ListboxComponent = React.forwardRef<
       key: any;
     },
     NSSCode,
-    state: AutocompleteRenderOptionState
+    state: AutocompleteRenderOptionState,
   ][] = [];
   (
     children as [
@@ -78,7 +78,7 @@ const ListboxComponent = React.forwardRef<
         key: any;
       },
       NSSCode,
-      state: AutocompleteRenderOptionState
+      state: AutocompleteRenderOptionState,
     ][]
   ).forEach((item: any) => {
     itemData.push(item);

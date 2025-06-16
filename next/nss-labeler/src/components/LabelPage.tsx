@@ -33,7 +33,7 @@ const LabelPage: React.FC = () => {
   const [selectedRowIds, setSelectedRowIds] = useState<number[]>([]);
 
   const [unlabeledData, setUnlabeledData] = useState<UnlabeledData[] | null>(
-    null
+    null,
   );
 
   const [visibleData, setVisibleData] = useState<UnlabeledData[] | null>(null);
@@ -43,17 +43,17 @@ const LabelPage: React.FC = () => {
       let filteredData = unlabeledData.slice();
 
       filteredData = filteredData.filter((d) =>
-        selectedTraItem ? d.tra_item === selectedTraItem : true
+        selectedTraItem ? d.tra_item === selectedTraItem : true,
       );
 
       if (searchType === "all") {
         filteredData = filteredData.filter((row) =>
-          Object.values(row).join(" ").toLowerCase().includes(searchTerm)
+          Object.values(row).join(" ").toLowerCase().includes(searchTerm),
         );
       }
       if (searchType === "name") {
         filteredData = filteredData.filter((row) =>
-          row.product_name.toLowerCase().includes(searchTerm)
+          row.product_name.toLowerCase().includes(searchTerm),
         );
       }
 
@@ -90,7 +90,7 @@ const LabelPage: React.FC = () => {
       const newData = (unlabeledData || []).filter(
         (d) =>
           !currentlyLabeling.includes(d.flip_id) &&
-          selectedRowIds.includes(d.flip_id)
+          selectedRowIds.includes(d.flip_id),
       );
 
       setRowsToLabel({
@@ -107,7 +107,7 @@ const LabelPage: React.FC = () => {
           flip_id: ld.data.flip_id,
           nss_code: ld.nssCode.nss_code,
         })),
-        `${selectedTraItem}.csv`
+        `${selectedTraItem}.csv`,
       );
     }
     setSelectedTraItem("");
@@ -129,7 +129,7 @@ const LabelPage: React.FC = () => {
         });
       }
     },
-    [rowsToLabel]
+    [rowsToLabel],
   );
 
   const setRowUnlabeled = useCallback(
@@ -141,12 +141,12 @@ const LabelPage: React.FC = () => {
             .concat(row.data)
             .sort(labelSort),
           labeledData: rowsToLabel.labeledData.filter(
-            (d) => d.data.flip_id !== row.data.flip_id
+            (d) => d.data.flip_id !== row.data.flip_id,
           ),
         });
       }
     },
-    [rowsToLabel]
+    [rowsToLabel],
   );
 
   const parseCsv = async (csv: File) => {
@@ -155,7 +155,7 @@ const LabelPage: React.FC = () => {
         header: true,
         skipEmptyLines: true,
         complete: (v) => resolve(v.data),
-      })
+      }),
     );
     setUnlabeledData(parsed);
   };
@@ -173,11 +173,11 @@ const LabelPage: React.FC = () => {
               setRowsToLabel({
                 ...rowsToLabel,
                 unlabeledData: rowsToLabel.unlabeledData.filter(
-                  (d) => d.flip_id !== row.flip_id
+                  (d) => d.flip_id !== row.flip_id,
                 ),
               });
               setSelectedRowIds(
-                selectedRowIds.filter((r) => r !== row.flip_id)
+                selectedRowIds.filter((r) => r !== row.flip_id),
               );
             }}
           />
@@ -299,7 +299,7 @@ const LabelPage: React.FC = () => {
               ...rowsToLabel,
               unlabeledData: rowsToLabel.unlabeledData.concat(row.data),
               labeledData: rowsToLabel.labeledData.filter(
-                (d) => d.data.flip_id !== row.data.flip_id
+                (d) => d.data.flip_id !== row.data.flip_id,
               ),
             });
           }}

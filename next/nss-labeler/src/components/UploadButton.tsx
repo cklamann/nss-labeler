@@ -4,7 +4,6 @@ import React from "react";
 import { styled } from "@mui/material/styles";
 import Button, { ButtonProps } from "@mui/material/Button";
 import CloudUploadIcon from "@mui/icons-material/CloudUpload";
-import Papa from "papaparse";
 
 const VisuallyHiddenInput = styled("input")({
   clip: "rect(0 0 0 0)",

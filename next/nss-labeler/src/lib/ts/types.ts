@@ -34,5 +34,5 @@ export interface LabelDataset {
 }
 
 export const itemIsLabeled = (
-  item: UnlabeledData | LabeledData
+  item: UnlabeledData | LabeledData,
 ): item is LabeledData => !!(item as LabeledData).nssCode;

@@ -41,22 +41,22 @@ const LabelingSection: React.FC<LabelingSectionProps> = ({
   const [searchText, setSearchText] = useState("");
   const [selectedNss, setSelectedNss] = useState<NSSCode | null>(null);
   const [activeRecord, setActiveRecord] = useState<UnlabeledData | null>(
-    dataToLabel.unlabeledData.length ? dataToLabel.unlabeledData[0] : null
+    dataToLabel.unlabeledData.length ? dataToLabel.unlabeledData[0] : null,
   );
 
   const sortedNss = useMemo(
     () =>
       nssCodes.sort((a) =>
-        a.tra_items.includes(dataToLabel.tra_item) ? -1 : 1
+        a.tra_items.includes(dataToLabel.tra_item) ? -1 : 1,
       ),
-    [dataToLabel, nssCodes]
+    [dataToLabel, nssCodes],
   );
 
   const markActiveItemLabeled = (code: NSSCode | null) => {
     if (activeRecord && code) {
       setRowLabeled(activeRecord, code);
       const currentIdx = dataToLabel.unlabeledData.findIndex(
-        (d) => d.flip_id === activeRecord.flip_id
+        (d) => d.flip_id === activeRecord.flip_id,
       );
 
       if (dataToLabel.unlabeledData.length > currentIdx + 1) {

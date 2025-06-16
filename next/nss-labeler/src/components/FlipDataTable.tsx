@@ -22,7 +22,7 @@ const getFlipCols = (
   labeledIds: number[],
   onSelectClick: (rowId: number) => void,
   selectedIds: number[],
-  selectedTraItem: string
+  selectedTraItem: string,
 ): FlipCol<UnlabeledData>[] => [
   {
     field: "flip_id",
@@ -88,7 +88,7 @@ const FlipDataTable: React.FC<FlipDataTableProps> = ({
         setSelectedRowIds(selectedRowIds.concat(rowId));
       }
     },
-    [selectedRowIds, setSelectedRowIds]
+    [selectedRowIds, setSelectedRowIds],
   );
 
   return (
@@ -97,7 +97,7 @@ const FlipDataTable: React.FC<FlipDataTableProps> = ({
         labeledIds,
         onCheckboxClick,
         selectedRowIds,
-        selectedTraItem
+        selectedTraItem,
       )}
       density="compact"
       filterMode="client"

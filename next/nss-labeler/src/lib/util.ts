@@ -1,11 +1,11 @@
 export const downloadCsv = <T extends Record<string, string | number>>(
   data: T[],
-  filename?: string
+  filename?: string,
 ) => {
   const filtered = data.map((d) =>
     Object.fromEntries(
-      Object.entries(d).filter(([, v]) => v === null || typeof v !== "object")
-    )
+      Object.entries(d).filter(([, v]) => v === null || typeof v !== "object"),
+    ),
   );
 
   const headers = Object.keys(filtered[0]).join(",");
@@ -14,7 +14,7 @@ export const downloadCsv = <T extends Record<string, string | number>>(
     .map((row) =>
       Object.values(row)
         .map((item) => `"${item}"`)
-        .join(",")
+        .join(","),
     )
     .join("\n")}`;
 
