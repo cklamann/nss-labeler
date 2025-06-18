@@ -307,7 +307,11 @@ const LabelPage: React.FC = () => {
       )}
     </Grid>
   ) : (
-    <UploadButton onUpload={parseCsv} />
+    <Grid container justifyContent="center">
+      <Grid>
+        <UploadButton onUpload={parseCsv} />
+      </Grid>
+    </Grid>
   );
 };
 
