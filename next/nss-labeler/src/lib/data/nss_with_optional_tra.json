@@ -11,7 +11,8 @@
   {
     "nss_code": 14,
     "tra_items": [
-      "R05"
+      "R05",
+      "J01"
     ],
     "nss_description": "Vinegar, distilled (white)",
     "bns_code": "50F",
@@ -97,6 +98,7 @@
     "tra_items": [
       "D05",
       "D02",
+      "D03",
       "D01"
     ],
     "nss_description": "Cheese, cottage, creamed (4.5% M.F.)",
@@ -153,7 +155,9 @@
   },
   {
     "nss_code": 32,
-    "tra_items": [],
+    "tra_items": [
+      "G01"
+    ],
     "nss_description": "Cheese, gruyere",
     "bns_code": "14D",
     "bns_description": "CHEESE, MORE THAN 25% B.F."
@@ -242,7 +246,8 @@
     "nss_code": 43,
     "tra_items": [
       "D03",
-      "D05"
+      "D05",
+      "H01"
     ],
     "nss_description": "Cheese, ricotta, with whole milk",
     "bns_code": "14C",
@@ -327,7 +332,8 @@
   {
     "nss_code": 56,
     "tra_items": [
-      "D06"
+      "D06",
+      "D08"
     ],
     "nss_description": "Coffee whitener (non dairy), liquid",
     "bns_code": "53B",
@@ -732,7 +738,8 @@
   {
     "nss_code": 122,
     "tra_items": [
-      "D07"
+      "D07",
+      "A05"
     ],
     "nss_description": "Coffee whitener (non dairy), powdered",
     "bns_code": "53B",
@@ -759,7 +766,8 @@
   {
     "nss_code": 125,
     "tra_items": [
-      "G02"
+      "G02",
+      "C01"
     ],
     "nss_description": "Egg, chicken, whole, fresh or frozen, raw",
     "bns_code": "16A",
@@ -768,6 +776,7 @@
   {
     "nss_code": 126,
     "tra_items": [
+      "G01",
       "G02"
     ],
     "nss_description": "Egg, chicken, white, fresh or frozen, raw",
@@ -838,6 +847,8 @@
     "nss_code": 138,
     "tra_items": [
       "D06",
+      "H01",
+      "D03",
       "D01"
     ],
     "nss_description": "Cream, whipping, 35% M.F.",
@@ -873,7 +884,8 @@
     "nss_code": 150,
     "tra_items": [
       "D06",
-      "D11"
+      "D11",
+      "H01"
     ],
     "nss_description": "Cream, cereal (half and half), 10% M.F.",
     "bns_code": "13C",
@@ -934,7 +946,9 @@
   },
   {
     "nss_code": 170,
-    "tra_items": [],
+    "tra_items": [
+      "J01"
+    ],
     "nss_description": "Spices, anise seeds",
     "bns_code": "53A",
     "bns_description": "SPICES"
@@ -952,7 +966,8 @@
   {
     "nss_code": 172,
     "tra_items": [
-      "V03"
+      "V03",
+      "M10"
     ],
     "nss_description": "Spices, bay leaf",
     "bns_code": "53A",
@@ -969,7 +984,10 @@
   },
   {
     "nss_code": 174,
-    "tra_items": [],
+    "tra_items": [
+      "M10",
+      "C05"
+    ],
     "nss_description": "Spices, cardamom, ground",
     "bns_code": "53A",
     "bns_description": "SPICES"
@@ -1029,7 +1047,9 @@
   },
   {
     "nss_code": 181,
-    "tra_items": [],
+    "tra_items": [
+      "M10"
+    ],
     "nss_description": "Spices, coriander seed (cilantro)",
     "bns_code": "53A",
     "bns_description": "SPICES"
@@ -1063,7 +1083,9 @@
   },
   {
     "nss_code": 185,
-    "tra_items": [],
+    "tra_items": [
+      "M10"
+    ],
     "nss_description": "Spices, dill weed, dried",
     "bns_code": "53A",
     "bns_description": "SPICES"
@@ -1071,6 +1093,7 @@
   {
     "nss_code": 186,
     "tra_items": [
+      "O01",
       "M10"
     ],
     "nss_description": "Spices, fennel seed",
@@ -1079,7 +1102,9 @@
   },
   {
     "nss_code": 187,
-    "tra_items": [],
+    "tra_items": [
+      "O01"
+    ],
     "nss_description": "Spices, fenugreek seed",
     "bns_code": "53A",
     "bns_description": "SPICES"
@@ -1122,7 +1147,8 @@
   {
     "nss_code": 192,
     "tra_items": [
-      "M10"
+      "M10",
+      "C06"
     ],
     "nss_description": "Spices, mustard seed, yellow",
     "bns_code": "53A",
@@ -1148,7 +1174,9 @@
   },
   {
     "nss_code": 195,
-    "tra_items": [],
+    "tra_items": [
+      "M10"
+    ],
     "nss_description": "Spices, oregano, ground",
     "bns_code": "53A",
     "bns_description": "SPICES"
@@ -1201,7 +1229,9 @@
   },
   {
     "nss_code": 201,
-    "tra_items": [],
+    "tra_items": [
+      "O01"
+    ],
     "nss_description": "Spices, poppy seed",
     "bns_code": "53A",
     "bns_description": "SPICES"
@@ -1261,7 +1291,9 @@
   },
   {
     "nss_code": 209,
-    "tra_items": [],
+    "tra_items": [
+      "M10"
+    ],
     "nss_description": "Spices, tarragon, dried",
     "bns_code": "53A",
     "bns_description": "SPICES"
@@ -1305,7 +1337,8 @@
   {
     "nss_code": 214,
     "tra_items": [
-      "M09"
+      "M09",
+      "J01"
     ],
     "nss_description": "Salt, table",
     "bns_code": "50F",
@@ -1322,14 +1355,19 @@
   },
   {
     "nss_code": 216,
-    "tra_items": [],
+    "tra_items": [
+      "M01",
+      "M10"
+    ],
     "nss_description": "Vanilla extract",
     "bns_code": "53B",
     "bns_description": "OTHERS (BAKING SODA, BAKING POWDER, YEAST, ETC)"
   },
   {
     "nss_code": 218,
-    "tra_items": [],
+    "tra_items": [
+      "M01"
+    ],
     "nss_description": "Vanilla extract, imitation, without alcohol",
     "bns_code": "53B",
     "bns_description": "OTHERS (BAKING SODA, BAKING POWDER, YEAST, ETC)"
@@ -1476,7 +1514,9 @@
   {
     "nss_code": 422,
     "tra_items": [
-      "H02"
+      "H02",
+      "C10",
+      "J01"
     ],
     "nss_description": "Vegetable oil, olive",
     "bns_code": "21A",
@@ -1557,7 +1597,8 @@
   {
     "nss_code": 436,
     "tra_items": [
-      "H02"
+      "H02",
+      "C10"
     ],
     "nss_description": "Vegetable oil, grapeseed",
     "bns_code": "21A",
@@ -1637,7 +1678,8 @@
   {
     "nss_code": 447,
     "tra_items": [
-      "H01"
+      "H01",
+      "L04"
     ],
     "nss_description": "Animal fat, duck",
     "bns_code": "21B",
@@ -2002,7 +2044,9 @@
   },
   {
     "nss_code": 574,
-    "tra_items": [],
+    "tra_items": [
+      "L06"
+    ],
     "nss_description": "Chicken, broiler, gizzard, raw",
     "bns_code": "29A",
     "bns_description": "OFFAL"
@@ -2016,7 +2060,9 @@
   },
   {
     "nss_code": 576,
-    "tra_items": [],
+    "tra_items": [
+      "L06"
+    ],
     "nss_description": "Chicken, broiler, heart, raw",
     "bns_code": "29A",
     "bns_description": "OFFAL"
@@ -2030,7 +2076,9 @@
   },
   {
     "nss_code": 578,
-    "tra_items": [],
+    "tra_items": [
+      "L06"
+    ],
     "nss_description": "Chicken, broiler, liver, raw",
     "bns_code": "28A",
     "bns_description": "LIVER"
@@ -2191,7 +2239,9 @@
   },
   {
     "nss_code": 607,
-    "tra_items": [],
+    "tra_items": [
+      "L06"
+    ],
     "nss_description": "Chicken, broiler, leg, meat and skin, raw",
     "bns_code": "27B",
     "bns_description": "CHICKEN, MEAT + SKIN"
@@ -2240,7 +2290,9 @@
   },
   {
     "nss_code": 616,
-    "tra_items": [],
+    "tra_items": [
+      "L06"
+    ],
     "nss_description": "Chicken, broiler, neck, meat and skin, raw",
     "bns_code": "27B",
     "bns_description": "CHICKEN, MEAT + SKIN"
@@ -2282,7 +2334,9 @@
   },
   {
     "nss_code": 626,
-    "tra_items": [],
+    "tra_items": [
+      "L06"
+    ],
     "nss_description": "Chicken, broiler, wing, meat and skin, raw",
     "bns_code": "27B",
     "bns_description": "CHICKEN, MEAT + SKIN"
@@ -2359,7 +2413,9 @@
   },
   {
     "nss_code": 662,
-    "tra_items": [],
+    "tra_items": [
+      "L06"
+    ],
     "nss_description": "Duck, domesticated, meat and skin, raw",
     "bns_code": "27E",
     "bns_description": "OTHER BIRDS (DUCK, PHEASANT, PIGEON)"
@@ -2459,7 +2515,9 @@
   },
   {
     "nss_code": 680,
-    "tra_items": [],
+    "tra_items": [
+      "L06"
+    ],
     "nss_description": "Quail, meat and skin, raw",
     "bns_code": "27E",
     "bns_description": "OTHER BIRDS (DUCK, PHEASANT, PIGEON)"
@@ -2501,7 +2559,9 @@
   },
   {
     "nss_code": 688,
-    "tra_items": [],
+    "tra_items": [
+      "L04"
+    ],
     "nss_description": "Turkey, all classes, meat and skin, raw",
     "bns_code": "27D",
     "bns_description": "TURKEY, MEAT + SKIN (INCL GROUND TURKEY)"
@@ -2516,6 +2576,7 @@
   {
     "nss_code": 690,
     "tra_items": [
+      "L02",
       "L06"
     ],
     "nss_description": "Turkey, all classes, meat only, raw",
@@ -2724,7 +2785,10 @@
   },
   {
     "nss_code": 719,
-    "tra_items": [],
+    "tra_items": [
+      "L02",
+      "L06"
+    ],
     "nss_description": "Turkey, all classes, wing, meat and skin, roasted",
     "bns_code": "27D",
     "bns_description": "TURKEY, MEAT + SKIN (INCL GROUND TURKEY)"
@@ -2732,7 +2796,8 @@
   {
     "nss_code": 800,
     "tra_items": [
-      "L09"
+      "L09",
+      "L03"
     ],
     "nss_description": "Poultry food products, chicken, flaked, canned, deboned with broth",
     "bns_code": "27A",
@@ -2758,7 +2823,9 @@
   },
   {
     "nss_code": 817,
-    "tra_items": [],
+    "tra_items": [
+      "L06"
+    ],
     "nss_description": "Chicken, cornish game hens, meat and skin, raw",
     "bns_code": "27B",
     "bns_description": "CHICKEN, MEAT + SKIN"
@@ -2909,7 +2976,9 @@
   },
   {
     "nss_code": 844,
-    "tra_items": [],
+    "tra_items": [
+      "L06"
+    ],
     "nss_description": "Chicken, broiler, drumstick, meat and skin, raw",
     "bns_code": "27B",
     "bns_description": "CHICKEN, MEAT + SKIN"
@@ -2953,7 +3022,9 @@
   },
   {
     "nss_code": 850,
-    "tra_items": [],
+    "tra_items": [
+      "L06"
+    ],
     "nss_description": "Chicken, broiler, thigh, meat and skin, raw",
     "bns_code": "27B",
     "bns_description": "CHICKEN, MEAT + SKIN"
@@ -2974,7 +3045,9 @@
   },
   {
     "nss_code": 853,
-    "tra_items": [],
+    "tra_items": [
+      "L06"
+    ],
     "nss_description": "Chicken, broiler, thigh, meat, raw",
     "bns_code": "27A",
     "bns_description": "CHICKEN, MEAT ONLY"
@@ -3630,7 +3703,9 @@
       "R06",
       "R05",
       "R01",
-      "R04"
+      "R04",
+      "C01",
+      "C10"
     ],
     "nss_description": "Sauce, pepper or hot, ready-to-serve",
     "bns_code": "50D",
@@ -4208,6 +4283,7 @@
     "nss_code": 1154,
     "tra_items": [
       "L04",
+      "L03",
       "L06"
     ],
     "nss_description": "Deli-meat, roast beef, cooked, sliced",
@@ -4216,7 +4292,9 @@
   },
   {
     "nss_code": 1157,
-    "tra_items": [],
+    "tra_items": [
+      "L03"
+    ],
     "nss_description": "Deli-meat, olive loaf, pork",
     "bns_code": "32A",
     "bns_description": "LUNCHEON MEAT"
@@ -4225,7 +4303,8 @@
     "nss_code": 1161,
     "tra_items": [
       "L04",
-      "L09"
+      "L09",
+      "L11"
     ],
     "nss_description": "P!t!, liver, unspecified meat, canned",
     "bns_code": "28B",
@@ -4257,7 +4336,8 @@
   {
     "nss_code": 1172,
     "tra_items": [
-      "L04"
+      "L04",
+      "L02"
     ],
     "nss_description": "Deli-meat, turkey breast, cooked, sliced",
     "bns_code": "32A",
@@ -4292,7 +4372,8 @@
   {
     "nss_code": 1179,
     "tra_items": [
-      "L04"
+      "L04",
+      "L03"
     ],
     "nss_description": "Deli-meat, bologna (baloney), beef",
     "bns_code": "32A",
@@ -4318,7 +4399,8 @@
   {
     "nss_code": 1185,
     "tra_items": [
-      "L05"
+      "L05",
+      "L03"
     ],
     "nss_description": "Wiener (frankfurter), beef",
     "bns_code": "30A",
@@ -4335,7 +4417,9 @@
   },
   {
     "nss_code": 1190,
-    "tra_items": [],
+    "tra_items": [
+      "L03"
+    ],
     "nss_description": "Deli-meat, headcheese, pork",
     "bns_code": "32A",
     "bns_description": "LUNCHEON MEAT"
@@ -4344,6 +4428,7 @@
     "nss_code": 1192,
     "tra_items": [
       "L04",
+      "L05",
       "L08"
     ],
     "nss_description": "Liver sausage, liverwurst, pork",
@@ -4428,7 +4513,9 @@
   },
   {
     "nss_code": 1220,
-    "tra_items": [],
+    "tra_items": [
+      "L04"
+    ],
     "nss_description": "Deli-meat, chicken breast, cooked, extra lean",
     "bns_code": "32A",
     "bns_description": "LUNCHEON MEAT"
@@ -4535,7 +4622,9 @@
   },
   {
     "nss_code": 1413,
-    "tra_items": [],
+    "tra_items": [
+      "C01"
+    ],
     "nss_description": "Cereal, hot, oats, instant: regular, dry",
     "bns_code": "05A",
     "bns_description": "WHOLE GRAIN, OATS AND HIGH FIBRE BREAKFAST CEREALS"
@@ -4958,7 +5047,9 @@
   },
   {
     "nss_code": 1549,
-    "tra_items": [],
+    "tra_items": [
+      "J01"
+    ],
     "nss_description": "Fig, dried, uncooked",
     "bns_code": "40L",
     "bns_description": "OTHER FRUITS (BLUEBERRIES, DATES, KIWIS, FRUIT SALADS, ETC)"
@@ -5135,7 +5226,9 @@
   },
   {
     "nss_code": 1585,
-    "tra_items": [],
+    "tra_items": [
+      "J01"
+    ],
     "nss_description": "Kiwi fruit, raw",
     "bns_code": "40L",
     "bns_description": "OTHER FRUITS (BLUEBERRIES, DATES, KIWIS, FRUIT SALADS, ETC)"
@@ -5374,7 +5467,9 @@
   },
   {
     "nss_code": 1623,
-    "tra_items": [],
+    "tra_items": [
+      "J01"
+    ],
     "nss_description": "Tangerine (mandarin), raw",
     "bns_code": "40A",
     "bns_description": "CITRUS FRUITS (ORANGES, GRAPEFRUITS, LEMONS, ETC)"
@@ -5595,7 +5690,8 @@
   {
     "nss_code": 1657,
     "tra_items": [
-      "J11"
+      "J11",
+      "J01"
     ],
     "nss_description": "Pineapple juice, canned, added vitamin C",
     "bns_code": "45A",
@@ -5684,7 +5780,9 @@
   },
   {
     "nss_code": 1669,
-    "tra_items": [],
+    "tra_items": [
+      "J01"
+    ],
     "nss_description": "Prune, canned, heavy syrup pack, solids and liquid",
     "bns_code": "40J",
     "bns_description": "PLUMS AND PRUNES"
@@ -5823,7 +5921,8 @@
   {
     "nss_code": 1691,
     "tra_items": [
-      "J03"
+      "J03",
+      "J01"
     ],
     "nss_description": "Watermelon, raw",
     "bns_code": "40F",
@@ -5838,7 +5937,9 @@
   },
   {
     "nss_code": 1693,
-    "tra_items": [],
+    "tra_items": [
+      "J01"
+    ],
     "nss_description": "Pear, asian, raw",
     "bns_code": "40H",
     "bns_description": "PEARS"
@@ -5956,7 +6057,9 @@
   },
   {
     "nss_code": 1711,
-    "tra_items": [],
+    "tra_items": [
+      "J01"
+    ],
     "nss_description": "Fig, raw",
     "bns_code": "40L",
     "bns_description": "OTHER FRUITS (BLUEBERRIES, DATES, KIWIS, FRUIT SALADS, ETC)"
@@ -5981,7 +6084,9 @@
   },
   {
     "nss_code": 1714,
-    "tra_items": [],
+    "tra_items": [
+      "J01"
+    ],
     "nss_description": "Grapefruit, pink, red or white, all areas, raw",
     "bns_code": "40A",
     "bns_description": "CITRUS FRUITS (ORANGES, GRAPEFRUITS, LEMONS, ETC)"
@@ -6045,7 +6150,9 @@
   },
   {
     "nss_code": 1722,
-    "tra_items": [],
+    "tra_items": [
+      "J01"
+    ],
     "nss_description": "Orange, all commercial varieties, raw",
     "bns_code": "40A",
     "bns_description": "CITRUS FRUITS (ORANGES, GRAPEFRUITS, LEMONS, ETC)"
@@ -6201,7 +6308,9 @@
   },
   {
     "nss_code": 1740,
-    "tra_items": [],
+    "tra_items": [
+      "J01"
+    ],
     "nss_description": "Plum, raw",
     "bns_code": "40J",
     "bns_description": "PLUMS AND PRUNES"
@@ -6261,6 +6370,7 @@
   {
     "nss_code": 1747,
     "tra_items": [
+      "J01",
       "J02"
     ],
     "nss_description": "Raspberry, raw",
@@ -6327,7 +6437,9 @@
   },
   {
     "nss_code": 1758,
-    "tra_items": [],
+    "tra_items": [
+      "L06"
+    ],
     "nss_description": "Pork, wholesale cuts, belly, raw",
     "bns_code": "25B",
     "bns_description": "PORK, FRESH, LEAN + FAT (INCL GROUND PORK)"
@@ -6392,7 +6504,9 @@
   },
   {
     "nss_code": 1776,
-    "tra_items": [],
+    "tra_items": [
+      "L04"
+    ],
     "nss_description": "Pork, loin, whole, lean and fat, roasted",
     "bns_code": "25B",
     "bns_description": "PORK, FRESH, LEAN + FAT (INCL GROUND PORK)"
@@ -6541,7 +6655,9 @@
   },
   {
     "nss_code": 1797,
-    "tra_items": [],
+    "tra_items": [
+      "L01"
+    ],
     "nss_description": "Pork, loin, sirloin chop, bone-in, lean and fat, raw",
     "bns_code": "25B",
     "bns_description": "PORK, FRESH, LEAN + FAT (INCL GROUND PORK)"
@@ -6597,7 +6713,9 @@
   },
   {
     "nss_code": 1813,
-    "tra_items": [],
+    "tra_items": [
+      "L06"
+    ],
     "nss_description": "Pork, shoulder, whole, lean and fat, raw",
     "bns_code": "25B",
     "bns_description": "PORK, FRESH, LEAN + FAT (INCL GROUND PORK)"
@@ -6765,7 +6883,9 @@
   },
   {
     "nss_code": 1844,
-    "tra_items": [],
+    "tra_items": [
+      "L06"
+    ],
     "nss_description": "Pork, liver, raw",
     "bns_code": "28A",
     "bns_description": "LIVER"
@@ -6850,7 +6970,8 @@
   {
     "nss_code": 1859,
     "tra_items": [
-      "L08"
+      "L08",
+      "L01"
     ],
     "nss_description": "Pork, cured, back bacon, grilled",
     "bns_code": "25C",
@@ -6873,8 +6994,7 @@
   {
     "nss_code": 1862,
     "tra_items": [
-      "L09",
-      "L04"
+      "L09"
     ],
     "nss_description": "Ham, lean, canned",
     "bns_code": "25D",
@@ -6882,14 +7002,18 @@
   },
   {
     "nss_code": 1865,
-    "tra_items": [],
+    "tra_items": [
+      "L04"
+    ],
     "nss_description": "Ham, regular (13% fat), canned",
     "bns_code": "25E",
     "bns_description": "HAM, CURED, LEAN + FAT"
   },
   {
     "nss_code": 1871,
-    "tra_items": [],
+    "tra_items": [
+      "L04"
+    ],
     "nss_description": "Pork, cured, ham, whole, lean and fat",
     "bns_code": "25E",
     "bns_description": "HAM, CURED, LEAN + FAT"
@@ -6906,7 +7030,9 @@
   {
     "nss_code": 1874,
     "tra_items": [
-      "L08"
+      "L08",
+      "L03",
+      "L04"
     ],
     "nss_description": "Pork, cured, salt pork, raw",
     "bns_code": "21B",
@@ -7144,7 +7270,9 @@
   },
   {
     "nss_code": 1933,
-    "tra_items": [],
+    "tra_items": [
+      "L06"
+    ],
     "nss_description": "Pork, side ribs centre cut (spareribs), lean and fat, raw",
     "bns_code": "25B",
     "bns_description": "PORK, FRESH, LEAN + FAT (INCL GROUND PORK)"
@@ -7166,7 +7294,8 @@
   {
     "nss_code": 1936,
     "tra_items": [
-      "L01"
+      "L01",
+      "L04"
     ],
     "nss_description": "Pork, cured, bacon, raw",
     "bns_code": "25C",
@@ -7204,7 +7333,9 @@
   },
   {
     "nss_code": 1944,
-    "tra_items": [],
+    "tra_items": [
+      "L03"
+    ],
     "nss_description": "Pork, loin, tenderloin, lean and fat, roasted",
     "bns_code": "25B",
     "bns_description": "PORK, FRESH, LEAN + FAT (INCL GROUND PORK)"
@@ -7262,7 +7393,9 @@
   },
   {
     "nss_code": 1972,
-    "tra_items": [],
+    "tra_items": [
+      "L01"
+    ],
     "nss_description": "Pork, shoulder, butt (blade, boneless), lean and fat, roasted",
     "bns_code": "25B",
     "bns_description": "PORK, FRESH, LEAN + FAT (INCL GROUND PORK)"
@@ -7285,7 +7418,9 @@
     "nss_code": 1979,
     "tra_items": [
       "M08",
-      "L08"
+      "L08",
+      "L01",
+      "L03"
     ],
     "nss_description": "Pork, cured, bacon bits, cooked",
     "bns_code": "25C",
@@ -7796,7 +7931,8 @@
   {
     "nss_code": 2070,
     "tra_items": [
-      "V01"
+      "V01",
+      "C01"
     ],
     "nss_description": "Corn, sweet, canned, brine pack, drained solids",
     "bns_code": "36G",
@@ -9186,7 +9322,8 @@
   {
     "nss_code": 2355,
     "tra_items": [
-      "V04"
+      "V04",
+      "M10"
     ],
     "nss_description": "Pepper, hot chili, red, sun-dried",
     "bns_code": "36L",
@@ -9478,7 +9615,8 @@
   {
     "nss_code": 2394,
     "tra_items": [
-      "V03"
+      "V03",
+      "M10"
     ],
     "nss_description": "Garlic, raw",
     "bns_code": "36J",
@@ -10121,7 +10259,8 @@
   {
     "nss_code": 2517,
     "tra_items": [
-      "S02"
+      "S02",
+      "O01"
     ],
     "nss_description": "Seeds, pumpkin and squash seed kernels, roasted",
     "bns_code": "33B",
@@ -10136,7 +10275,9 @@
   },
   {
     "nss_code": 2521,
-    "tra_items": [],
+    "tra_items": [
+      "C05"
+    ],
     "nss_description": "Seeds, sesame seeds, whole, roasted and toasted",
     "bns_code": "33B",
     "bns_description": "SEEDS"
@@ -10169,7 +10310,8 @@
   {
     "nss_code": 2527,
     "tra_items": [
-      "S02"
+      "S02",
+      "O01"
     ],
     "nss_description": "Seeds, sunflower seed kernels, dry roasted",
     "bns_code": "33B",
@@ -10178,7 +10320,8 @@
   {
     "nss_code": 2529,
     "tra_items": [
-      "O03"
+      "O03",
+      "O01"
     ],
     "nss_description": "Seeds, sunflower seed butter",
     "bns_code": "33C",
@@ -10233,7 +10376,9 @@
   {
     "nss_code": 2536,
     "tra_items": [
-      "S02"
+      "S02",
+      "O01",
+      "J01"
     ],
     "nss_description": "Nuts, almonds, dry roasted, unblanched",
     "bns_code": "33A",
@@ -10258,7 +10403,8 @@
   {
     "nss_code": 2540,
     "tra_items": [
-      "O02"
+      "O02",
+      "O03"
     ],
     "nss_description": "Nuts, almond paste, sweetened",
     "bns_code": "33A",
@@ -10359,7 +10505,8 @@
   {
     "nss_code": 2565,
     "tra_items": [
-      "M11"
+      "M11",
+      "H01"
     ],
     "nss_description": "Nuts, coconut milk (liquid from grated meat and water), canned",
     "bns_code": "50D",
@@ -10460,7 +10607,8 @@
   {
     "nss_code": 2582,
     "tra_items": [
-      "O01"
+      "O01",
+      "I05"
     ],
     "nss_description": "Nuts, pecans, dried",
     "bns_code": "33A",
@@ -10532,7 +10680,9 @@
   },
   {
     "nss_code": 2594,
-    "tra_items": [],
+    "tra_items": [
+      "O01"
+    ],
     "nss_description": "Nuts, European chestnuts (sweet), roasted",
     "bns_code": "33A",
     "bns_description": "NUTS"
@@ -10569,7 +10719,8 @@
     "tra_items": [
       "O04",
       "O01",
-      "S02"
+      "S02",
+      "C06"
     ],
     "nss_description": "Nuts, almond meal, partially defatted",
     "bns_code": "33A",
@@ -10578,7 +10729,8 @@
   {
     "nss_code": 2608,
     "tra_items": [
-      "O03"
+      "O03",
+      "O01"
     ],
     "nss_description": "Seeds, sesame butter, tahini, from raw and stone ground kernels",
     "bns_code": "33C",
@@ -10586,7 +10738,9 @@
   },
   {
     "nss_code": 2611,
-    "tra_items": [],
+    "tra_items": [
+      "O01"
+    ],
     "nss_description": "Seeds, sesame seed kernels, dried, shelled",
     "bns_code": "33B",
     "bns_description": "SEEDS"
@@ -10594,7 +10748,8 @@
   {
     "nss_code": 2616,
     "tra_items": [
-      "S02"
+      "S02",
+      "J01"
     ],
     "nss_description": "Nuts, almonds, honey roasted, unblanched",
     "bns_code": "33A",
@@ -10656,7 +10811,8 @@
   {
     "nss_code": 2627,
     "tra_items": [
-      "S02"
+      "S02",
+      "O01"
     ],
     "nss_description": "Nuts, cashew nuts, dry roasted, salted",
     "bns_code": "33A",
@@ -10683,7 +10839,8 @@
   {
     "nss_code": 2637,
     "tra_items": [
-      "S02"
+      "S02",
+      "J01"
     ],
     "nss_description": "Nuts, pistachio nuts, dry roasted, salted",
     "bns_code": "33A",
@@ -10970,7 +11127,9 @@
   },
   {
     "nss_code": 2707,
-    "tra_items": [],
+    "tra_items": [
+      "L03"
+    ],
     "nss_description": "Beef, cured, dried beef",
     "bns_code": "32A",
     "bns_description": "LUNCHEON MEAT"
@@ -11020,7 +11179,9 @@
   {
     "nss_code": 2790,
     "tra_items": [
-      "L08"
+      "L08",
+      "L03",
+      "L06"
     ],
     "nss_description": "Beef, cured, corned beef, brisket, cooked",
     "bns_code": "32A",
@@ -11029,7 +11190,8 @@
   {
     "nss_code": 2791,
     "tra_items": [
-      "L09"
+      "L09",
+      "L03"
     ],
     "nss_description": "Beef, cured, corned beef, canned",
     "bns_code": "32A",
@@ -11038,7 +11200,8 @@
   {
     "nss_code": 2792,
     "tra_items": [
-      "L08"
+      "L08",
+      "L04"
     ],
     "nss_description": "Deli-meat, pastrami, beef, sliced",
     "bns_code": "32A",
@@ -11235,6 +11398,7 @@
   {
     "nss_code": 2866,
     "tra_items": [
+      "F01",
       "U15"
     ],
     "nss_description": "Chocolate syrup, thin type",
@@ -11255,7 +11419,9 @@
   {
     "nss_code": 2869,
     "tra_items": [
-      "B05"
+      "B05",
+      "B04",
+      "M05"
     ],
     "nss_description": "Hot chocolate, mix, powder",
     "bns_code": "46D",
@@ -11265,7 +11431,8 @@
     "nss_code": 2873,
     "tra_items": [
       "B03",
-      "B01"
+      "B01",
+      "J01"
     ],
     "nss_description": "Coffee, brewed, prepared with tap water",
     "bns_code": "51B",
@@ -11324,7 +11491,8 @@
   {
     "nss_code": 2880,
     "tra_items": [
-      "B03"
+      "B03",
+      "F01"
     ],
     "nss_description": "Coffee, instant, with sugar, mocha flavour, powder",
     "bns_code": "51B",
@@ -11905,7 +12073,9 @@
   },
   {
     "nss_code": 2990,
-    "tra_items": [],
+    "tra_items": [
+      "I03"
+    ],
     "nss_description": "Fish, butterfish, raw",
     "bns_code": "34B",
     "bns_description": "FISH, SUPERIOR OR EQUAL TO 6% TOTAL FAT"
@@ -12167,7 +12337,9 @@
   },
   {
     "nss_code": 3034,
-    "tra_items": [],
+    "tra_items": [
+      "I03"
+    ],
     "nss_description": "Fish, perch, mixed species, raw",
     "bns_code": "34A",
     "bns_description": "FISH, LESS THAN 6% TOTAL FAT"
@@ -12204,7 +12376,9 @@
   },
   {
     "nss_code": 3039,
-    "tra_items": [],
+    "tra_items": [
+      "I03"
+    ],
     "nss_description": "Fish, pollock, (alaska), raw",
     "bns_code": "34A",
     "bns_description": "FISH, LESS THAN 6% TOTAL FAT"
@@ -12262,7 +12436,9 @@
   },
   {
     "nss_code": 3047,
-    "tra_items": [],
+    "tra_items": [
+      "I03"
+    ],
     "nss_description": "Fish, sablefish (black cod), raw",
     "bns_code": "34B",
     "bns_description": "FISH, SUPERIOR OR EQUAL TO 6% TOTAL FAT"
@@ -12277,7 +12453,8 @@
   {
     "nss_code": 3050,
     "tra_items": [
-      "I05"
+      "I05",
+      "I03"
     ],
     "nss_description": "Fish, salmon, chinook (spring), smoked",
     "bns_code": "34A",
@@ -12285,7 +12462,9 @@
   },
   {
     "nss_code": 3052,
-    "tra_items": [],
+    "tra_items": [
+      "I03"
+    ],
     "nss_description": "Fish, salmon, sockeye (red), raw",
     "bns_code": "34B",
     "bns_description": "FISH, SUPERIOR OR EQUAL TO 6% TOTAL FAT"
@@ -12302,7 +12481,8 @@
   {
     "nss_code": 3054,
     "tra_items": [
-      "I04"
+      "I04",
+      "I05"
     ],
     "nss_description": "Fish, sardine, pacific, canned in tomato sauce, drained with bones",
     "bns_code": "34B",
@@ -12317,7 +12497,9 @@
   },
   {
     "nss_code": 3056,
-    "tra_items": [],
+    "tra_items": [
+      "I03"
+    ],
     "nss_description": "Fish, sea bass, mixed species, raw",
     "bns_code": "34A",
     "bns_description": "FISH, LESS THAN 6% TOTAL FAT"
@@ -12373,7 +12555,9 @@
   },
   {
     "nss_code": 3064,
-    "tra_items": [],
+    "tra_items": [
+      "J01"
+    ],
     "nss_description": "Fish, smelt, rainbow (american, capelin), raw",
     "bns_code": "34A",
     "bns_description": "FISH, LESS THAN 6% TOTAL FAT"
@@ -12498,14 +12682,18 @@
   },
   {
     "nss_code": 3085,
-    "tra_items": [],
+    "tra_items": [
+      "I03"
+    ],
     "nss_description": "Fish, tuna, yellowfin, fresh, raw",
     "bns_code": "34A",
     "bns_description": "FISH, LESS THAN 6% TOTAL FAT"
   },
   {
     "nss_code": 3087,
-    "tra_items": [],
+    "tra_items": [
+      "I03"
+    ],
     "nss_description": "Fish, turbot, european, raw",
     "bns_code": "34A",
     "bns_description": "FISH, LESS THAN 6% TOTAL FAT"
@@ -12601,7 +12789,9 @@
   },
   {
     "nss_code": 3101,
-    "tra_items": [],
+    "tra_items": [
+      "I03"
+    ],
     "nss_description": "Crustaceans, crab, atlantic snow crab (spider, queen), raw",
     "bns_code": "35A",
     "bns_description": "SHELLFISH"
@@ -12629,7 +12819,9 @@
   },
   {
     "nss_code": 3106,
-    "tra_items": [],
+    "tra_items": [
+      "I03"
+    ],
     "nss_description": "Crustaceans, spiny lobster (crawfish, rock lobster), mixed species, raw",
     "bns_code": "35A",
     "bns_description": "SHELLFISH"
@@ -12643,7 +12835,9 @@
   },
   {
     "nss_code": 3109,
-    "tra_items": [],
+    "tra_items": [
+      "I03"
+    ],
     "nss_description": "Mollusks, clam, mixed species, raw",
     "bns_code": "35A",
     "bns_description": "SHELLFISH"
@@ -12700,14 +12894,18 @@
   },
   {
     "nss_code": 3117,
-    "tra_items": [],
+    "tra_items": [
+      "I03"
+    ],
     "nss_description": "Mollusks, octopus, common, raw",
     "bns_code": "35A",
     "bns_description": "SHELLFISH"
   },
   {
     "nss_code": 3118,
-    "tra_items": [],
+    "tra_items": [
+      "I03"
+    ],
     "nss_description": "Mollusks, oyster, eastern (blue point), wild, raw",
     "bns_code": "35A",
     "bns_description": "SHELLFISH"
@@ -13050,7 +13248,9 @@
   },
   {
     "nss_code": 3180,
-    "tra_items": [],
+    "tra_items": [
+      "I03"
+    ],
     "nss_description": "Fish, catfish, channel (bullhead), farmed, raw",
     "bns_code": "34B",
     "bns_description": "FISH, SUPERIOR OR EQUAL TO 6% TOTAL FAT"
@@ -13064,7 +13264,9 @@
   },
   {
     "nss_code": 3182,
-    "tra_items": [],
+    "tra_items": [
+      "I03"
+    ],
     "nss_description": "Fish, salmon, atlantic, farmed, raw",
     "bns_code": "34B",
     "bns_description": "FISH, SUPERIOR OR EQUAL TO 6% TOTAL FAT"
@@ -13103,7 +13305,9 @@
   },
   {
     "nss_code": 3194,
-    "tra_items": [],
+    "tra_items": [
+      "I03"
+    ],
     "nss_description": "Fish, cod (scrod), atlantic, raw",
     "bns_code": "34A",
     "bns_description": "FISH, LESS THAN 6% TOTAL FAT"
@@ -13151,7 +13355,9 @@
   },
   {
     "nss_code": 3200,
-    "tra_items": [],
+    "tra_items": [
+      "I03"
+    ],
     "nss_description": "Fish, halibut, Atlantic or Pacific, raw",
     "bns_code": "34A",
     "bns_description": "FISH, LESS THAN 6% TOTAL FAT"
@@ -13173,7 +13379,8 @@
   {
     "nss_code": 3203,
     "tra_items": [
-      "I04"
+      "I04",
+      "I05"
     ],
     "nss_description": "Fish, sardine, Atlantic, canned in oil, drained solids with bone",
     "bns_code": "34B",
@@ -13181,7 +13388,9 @@
   },
   {
     "nss_code": 3204,
-    "tra_items": [],
+    "tra_items": [
+      "I03"
+    ],
     "nss_description": "Fish, trout, mixed species, raw",
     "bns_code": "34B",
     "bns_description": "FISH, SUPERIOR OR EQUAL TO 6% TOTAL FAT"
@@ -13206,7 +13415,9 @@
   },
   {
     "nss_code": 3209,
-    "tra_items": [],
+    "tra_items": [
+      "I03"
+    ],
     "nss_description": "Crustaceans, lobster, american (northern), raw",
     "bns_code": "35A",
     "bns_description": "SHELLFISH"
@@ -13220,7 +13431,9 @@
   },
   {
     "nss_code": 3211,
-    "tra_items": [],
+    "tra_items": [
+      "I03"
+    ],
     "nss_description": "Crustaceans, shrimp, mixed species, raw",
     "bns_code": "35A",
     "bns_description": "SHELLFISH"
@@ -13742,7 +13955,8 @@
   {
     "nss_code": 3316,
     "tra_items": [
-      "L05"
+      "L05",
+      "E06"
     ],
     "nss_description": "Meatless, sausage",
     "bns_code": "37B",
@@ -16001,7 +16215,8 @@
     "tra_items": [
       "A08",
       "A11",
-      "A23"
+      "A23",
+      "A22"
     ],
     "nss_description": "Puff pastry, frozen, ready-to-bake, baked",
     "bns_code": "08C",
@@ -16097,7 +16312,8 @@
     "nss_code": 3868,
     "tra_items": [
       "A13",
-      "A11"
+      "A11",
+      "A12"
     ],
     "nss_description": "Cracker, rusk toast",
     "bns_code": "04B",
@@ -16139,7 +16355,8 @@
   {
     "nss_code": 3873,
     "tra_items": [
-      "A12"
+      "A12",
+      "A14"
     ],
     "nss_description": "Cracker, standard snack-type, sandwich, with cheese filling",
     "bns_code": "04B",
@@ -16184,7 +16401,8 @@
   {
     "nss_code": 3878,
     "tra_items": [
-      "A11"
+      "A11",
+      "A12"
     ],
     "nss_description": "Cracker, whole-wheat",
     "bns_code": "04B",
@@ -16261,7 +16479,8 @@
   {
     "nss_code": 3889,
     "tra_items": [
-      "A08"
+      "A08",
+      "A23"
     ],
     "nss_description": "Danish pastry, fruit (apple, raisin, lemon, raspberry)",
     "bns_code": "08C",
@@ -16289,6 +16508,7 @@
   {
     "nss_code": 3900,
     "tra_items": [
+      "A09",
       "A02"
     ],
     "nss_description": "English muffin, plain (also sourdough)",
@@ -16376,7 +16596,8 @@
   {
     "nss_code": 3931,
     "tra_items": [
-      "A17"
+      "A17",
+      "A09"
     ],
     "nss_description": "Pancake, plain (includes buttermilk), dry mix, complete, unprepared",
     "bns_code": "04F",
@@ -16385,7 +16606,8 @@
   {
     "nss_code": 3933,
     "tra_items": [
-      "A17"
+      "A17",
+      "G01"
     ],
     "nss_description": "Pancake, plain (includes buttermilk), dry mix, incomplete, unprepared",
     "bns_code": "04F",
@@ -16420,7 +16642,8 @@
   {
     "nss_code": 3974,
     "tra_items": [
-      "A08"
+      "A08",
+      "A23"
     ],
     "nss_description": "Phyllo dough",
     "bns_code": "04E",
@@ -16532,7 +16755,8 @@
     "tra_items": [
       "A25",
       "C08",
-      "A26"
+      "A26",
+      "M01"
     ],
     "nss_description": "Wonton wrapper (egg roll wrapper)",
     "bns_code": "04E",
@@ -16572,7 +16796,9 @@
   },
   {
     "nss_code": 4006,
-    "tra_items": [],
+    "tra_items": [
+      "M10"
+    ],
     "nss_description": "Leavening agent, cream of tartar",
     "bns_code": "53B",
     "bns_description": "OTHERS (BAKING SODA, BAKING POWDER, YEAST, ETC)"
@@ -16683,7 +16909,8 @@
   {
     "nss_code": 4049,
     "tra_items": [
-      "A02"
+      "A02",
+      "C06"
     ],
     "nss_description": "Tortilla, ready-to-bake \/ fry, flour",
     "bns_code": "04A",
@@ -16753,7 +16980,8 @@
     "nss_code": 4066,
     "tra_items": [
       "M03",
-      "A01"
+      "A01",
+      "A22"
     ],
     "nss_description": "Bread, white, commercial",
     "bns_code": "02A",
@@ -16852,7 +17080,10 @@
   {
     "nss_code": 4086,
     "tra_items": [
-      "L03"
+      "L03",
+      "L11",
+      "I03",
+      "C10"
     ],
     "nss_description": "Snacks, beef jerky, chopped and formed",
     "bns_code": "42B",
@@ -17066,7 +17297,8 @@
   {
     "nss_code": 4143,
     "tra_items": [
-      "U01"
+      "U01",
+      "F01"
     ],
     "nss_description": "Candies, caramel",
     "bns_code": "43A",
@@ -17611,7 +17843,8 @@
   {
     "nss_code": 4294,
     "tra_items": [
-      "U08"
+      "U08",
+      "B04"
     ],
     "nss_description": "Sweets, honey, strained or extracted",
     "bns_code": "41C",
@@ -17621,6 +17854,9 @@
     "nss_code": 4295,
     "tra_items": [
       "U09",
+      "C01",
+      "J01",
+      "C05",
       "J11",
       "R05"
     ],
@@ -17632,7 +17868,8 @@
     "nss_code": 4296,
     "tra_items": [
       "U09",
-      "R05"
+      "R05",
+      "J01"
     ],
     "nss_description": "Sweets, jellies",
     "bns_code": "41B",
@@ -17695,7 +17932,8 @@
     "nss_code": 4317,
     "tra_items": [
       "U12",
-      "U13"
+      "U13",
+      "B04"
     ],
     "nss_description": "Sweets, sugar, brown",
     "bns_code": "41A",
@@ -17715,6 +17953,7 @@
     "nss_code": 4319,
     "tra_items": [
       "U07",
+      "M10",
       "U12"
     ],
     "nss_description": "Sweets, sugars, icing (powdered)",
@@ -17901,7 +18140,8 @@
   {
     "nss_code": 4378,
     "tra_items": [
-      "F02"
+      "F02",
+      "F01"
     ],
     "nss_description": "Icing (frosting), vanilla (white), creamy, ready-to-eat",
     "bns_code": "43A",
@@ -17943,7 +18183,8 @@
     "nss_code": 4393,
     "tra_items": [
       "S02",
-      "S01"
+      "S01",
+      "M05"
     ],
     "nss_description": "Snacks, trail mix, regular with chocolate chips, unsalted",
     "bns_code": "42B",
@@ -18038,7 +18279,10 @@
   },
   {
     "nss_code": 4410,
-    "tra_items": [],
+    "tra_items": [
+      "O01",
+      "C06"
+    ],
     "nss_description": "Grains, arrowroot flour",
     "bns_code": "01C",
     "bns_description": "CEREAL GRAINS AND FLOURS"
@@ -18129,7 +18373,8 @@
   {
     "nss_code": 4422,
     "tra_items": [
-      "C07"
+      "C07",
+      "C10"
     ],
     "nss_description": "Grains, rice, brown, medium-grain, dry",
     "bns_code": "01B",
@@ -18455,7 +18700,8 @@
     "nss_code": 4477,
     "tra_items": [
       "C07",
-      "C08"
+      "C08",
+      "J01"
     ],
     "nss_description": "Grains, rice, white, short-grain, cooked",
     "bns_code": "01B",
@@ -18463,7 +18709,9 @@
   },
   {
     "nss_code": 4478,
-    "tra_items": [],
+    "tra_items": [
+      "C06"
+    ],
     "nss_description": "Grains, semolina",
     "bns_code": "01C",
     "bns_description": "CEREAL GRAINS AND FLOURS"
@@ -18522,7 +18770,9 @@
   },
   {
     "nss_code": 4488,
-    "tra_items": [],
+    "tra_items": [
+      "C06"
+    ],
     "nss_description": "Grains, buckwheat flour, whole-groat",
     "bns_code": "01C",
     "bns_description": "CEREAL GRAINS AND FLOURS"
@@ -18549,7 +18799,9 @@
   },
   {
     "nss_code": 4491,
-    "tra_items": [],
+    "tra_items": [
+      "O01"
+    ],
     "nss_description": "Grains, millet, dry",
     "bns_code": "01C",
     "bns_description": "CEREAL GRAINS AND FLOURS"
@@ -18627,7 +18879,8 @@
   {
     "nss_code": 4500,
     "tra_items": [
-      "C06"
+      "C06",
+      "C05"
     ],
     "nss_description": "Grains, wheat flour, whole-wheat",
     "bns_code": "01C",
@@ -19006,7 +19259,9 @@
   },
   {
     "nss_code": 4779,
-    "tra_items": [],
+    "tra_items": [
+      "B03"
+    ],
     "nss_description": "Coffee, brewed, espresso, restaurant prepared",
     "bns_code": "51B",
     "bns_description": "COFFEE"
@@ -19409,7 +19664,8 @@
   {
     "nss_code": 4908,
     "tra_items": [
-      "B01"
+      "B01",
+      "B04"
     ],
     "nss_description": "Tea, iced, lemon flavour, ready-to-drink",
     "bns_code": "51A",
@@ -19492,14 +19748,18 @@
   },
   {
     "nss_code": 4981,
-    "tra_items": [],
+    "tra_items": [
+      "B03"
+    ],
     "nss_description": "Coffee, brewed, prepared with municipal water, decaffeinated",
     "bns_code": "51B",
     "bns_description": "COFFEE"
   },
   {
     "nss_code": 4985,
-    "tra_items": [],
+    "tra_items": [
+      "B04"
+    ],
     "nss_description": "Tea, brewed, prepared with tap water, decaffeinated",
     "bns_code": "51A",
     "bns_description": "TEA (INCL ICED TEA)"
@@ -19889,7 +20149,8 @@
   {
     "nss_code": 5294,
     "tra_items": [
-      "B01"
+      "B01",
+      "J01"
     ],
     "nss_description": "Non-alcoholic, wine",
     "bns_code": "48A",
@@ -20022,7 +20283,9 @@
   },
   {
     "nss_code": 5334,
-    "tra_items": [],
+    "tra_items": [
+      "L06"
+    ],
     "nss_description": "Chicken, feet, boiled",
     "bns_code": "29A",
     "bns_description": "OFFAL"
@@ -20280,7 +20543,9 @@
   {
     "nss_code": 5379,
     "tra_items": [
-      "L09"
+      "L09",
+      "L04",
+      "L03"
     ],
     "nss_description": "Pork and chicken, canned",
     "bns_code": "32A",
@@ -20577,7 +20842,9 @@
   },
   {
     "nss_code": 5454,
-    "tra_items": [],
+    "tra_items": [
+      "C01"
+    ],
     "nss_description": "Grains, oat flour, partially debranned",
     "bns_code": "01C",
     "bns_description": "CEREAL GRAINS AND FLOURS"
@@ -20629,7 +20896,8 @@
   {
     "nss_code": 5462,
     "tra_items": [
-      "L02"
+      "L02",
+      "L05"
     ],
     "nss_description": "Turkey bacon, cooked",
     "bns_code": "25C",
@@ -20899,7 +21167,8 @@
   {
     "nss_code": 5516,
     "tra_items": [
-      "H04"
+      "H04",
+      "C10"
     ],
     "nss_description": "Salad dressing, coleslaw",
     "bns_code": "50E",
@@ -21025,7 +21294,10 @@
   },
   {
     "nss_code": 5537,
-    "tra_items": [],
+    "tra_items": [
+      "L10",
+      "L03"
+    ],
     "nss_description": "Meatless, chicken",
     "bns_code": "37B",
     "bns_description": "FOODS MADE WITH VEGETABLE PROTEINS (TOFU)"
@@ -21042,7 +21314,8 @@
   {
     "nss_code": 5539,
     "tra_items": [
-      "L07"
+      "L07",
+      "L05"
     ],
     "nss_description": "Wiener (frankfurter), meatless",
     "bns_code": "37B",
@@ -21405,7 +21678,9 @@
   },
   {
     "nss_code": 5605,
-    "tra_items": [],
+    "tra_items": [
+      "M01"
+    ],
     "nss_description": "Yeast extract spread",
     "bns_code": "50D",
     "bns_description": "SAUCES (WHITE, BEARNAISE, SOYA, TARTAR, KETCHUP, ETC)"
@@ -21413,7 +21688,8 @@
   {
     "nss_code": 5606,
     "tra_items": [
-      "L06"
+      "L06",
+      "L10"
     ],
     "nss_description": "Meatless, chicken, breaded, fried",
     "bns_code": "37B",
@@ -21526,7 +21802,8 @@
   {
     "nss_code": 5623,
     "tra_items": [
-      "D01"
+      "D01",
+      "L02"
     ],
     "nss_description": "Cheese food, imitation",
     "bns_code": "14B",
@@ -21829,7 +22106,9 @@
   {
     "nss_code": 5692,
     "tra_items": [
-      "L05"
+      "L05",
+      "L03",
+      "L06"
     ],
     "nss_description": "Sausage, Kielbasa (kolbassa), turkey",
     "bns_code": "30A",
@@ -21838,7 +22117,8 @@
   {
     "nss_code": 5693,
     "tra_items": [
-      "L04"
+      "L04",
+      "L02"
     ],
     "nss_description": "Deli-meat, chicken breast, oven-roasted, sliced",
     "bns_code": "32A",
@@ -22608,7 +22888,9 @@
   },
   {
     "nss_code": 5955,
-    "tra_items": [],
+    "tra_items": [
+      "L06"
+    ],
     "nss_description": "Beef, chuck, blade steak, with bone, lean, cooked, braised",
     "bns_code": "22A",
     "bns_description": "BEEF, LEAN ONLY"
@@ -22664,7 +22946,9 @@
   },
   {
     "nss_code": 5966,
-    "tra_items": [],
+    "tra_items": [
+      "I03"
+    ],
     "nss_description": "Fish, tilapia, raw",
     "bns_code": "34A",
     "bns_description": "FISH, LESS THAN 6% TOTAL FAT"
@@ -22811,7 +23095,9 @@
   },
   {
     "nss_code": 6020,
-    "tra_items": [],
+    "tra_items": [
+      "L06"
+    ],
     "nss_description": "Beef, flank, flank steak, boneless, lean and fat, 0mm (0\"\") trim, raw",
     "bns_code": "22B",
     "bns_description": "BEEF, LEAN + FAT"
@@ -22946,7 +23232,9 @@
   },
   {
     "nss_code": 6090,
-    "tra_items": [],
+    "tra_items": [
+      "L06"
+    ],
     "nss_description": "Beef, hip, sirloin tip roast, boneless, lean and fat, 3mm (1\/8\"\") trim, raw",
     "bns_code": "22B",
     "bns_description": "BEEF, LEAN + FAT"
@@ -22974,7 +23262,9 @@
   },
   {
     "nss_code": 6108,
-    "tra_items": [],
+    "tra_items": [
+      "L06"
+    ],
     "nss_description": "Beef, loin, strip loin (new york) steak, boneless, lean and fat, 3mm (1\/8\"\") trim, raw",
     "bns_code": "22B",
     "bns_description": "BEEF, LEAN + FAT"
@@ -23119,7 +23409,8 @@
   {
     "nss_code": 6145,
     "tra_items": [
-      "L06"
+      "L06",
+      "L03"
     ],
     "nss_description": "Beef, loin, top sirloin steak, boneless, lean and fat, 3mm (1\/8\"\") trim, cooked, broiled",
     "bns_code": "22B",
@@ -23194,7 +23485,9 @@
   },
   {
     "nss_code": 6183,
-    "tra_items": [],
+    "tra_items": [
+      "C06"
+    ],
     "nss_description": "Lentils, flour",
     "bns_code": "01C",
     "bns_description": "CEREAL GRAINS AND FLOURS"
@@ -23323,7 +23616,9 @@
   },
   {
     "nss_code": 6212,
-    "tra_items": [],
+    "tra_items": [
+      "L04"
+    ],
     "nss_description": "Pork, cured, ham, shank, bone-in, separable lean and fat, heated, roasted",
     "bns_code": "25E",
     "bns_description": "HAM, CURED, LEAN + FAT"
@@ -23364,7 +23659,9 @@
     "nss_code": 6222,
     "tra_items": [
       "A14",
-      "A10"
+      "A10",
+      "A22",
+      "A08"
     ],
     "nss_description": "Toaster pastry, fruit, toasted (apple, blueberry, cherry, strawberry)",
     "bns_code": "08A",
@@ -23533,7 +23830,8 @@
   {
     "nss_code": 6298,
     "tra_items": [
-      "V09"
+      "V09",
+      "L03"
     ],
     "nss_description": "Artichoke, marinated",
     "bns_code": "36P",
@@ -23549,7 +23847,9 @@
   {
     "nss_code": 6306,
     "tra_items": [
-      "L08"
+      "L08",
+      "L03",
+      "L01"
     ],
     "nss_description": "Deli-meat, prosciutto (parma ham) dry-cured",
     "bns_code": "32A",
@@ -23615,6 +23915,7 @@
       "L06",
       "L10",
       "N02",
+      "L04",
       "I03"
     ],
     "nss_description": "Chicken breast tenders, breaded, cooked in conventional oven",
@@ -23686,7 +23987,8 @@
   {
     "nss_code": 6334,
     "tra_items": [
-      "E01"
+      "E01",
+      "E06"
     ],
     "nss_description": "Dessert, frozen, ice cream, vanilla, reduced sugar",
     "bns_code": "09A",
@@ -23964,7 +24266,8 @@
   {
     "nss_code": 6465,
     "tra_items": [
-      "H06"
+      "H06",
+      "H01"
     ],
     "nss_description": "Vegetable oil, cooking spray",
     "bns_code": "21A",
@@ -23974,7 +24277,8 @@
     "nss_code": 6470,
     "tra_items": [
       "V07",
-      "J11"
+      "J11",
+      "J01"
     ],
     "nss_description": "Juice drink, orange",
     "bns_code": "46C",
@@ -24135,7 +24439,9 @@
   },
   {
     "nss_code": 6594,
-    "tra_items": [],
+    "tra_items": [
+      "A09"
+    ],
     "nss_description": "Muffin bar, all flavours",
     "bns_code": "04C",
     "bns_description": "MUFFINS AND ENGLISH MUFFINS"
@@ -24207,8 +24513,7 @@
       "A19",
       "A20",
       "A18",
-      "A10",
-      "A04"
+      "A10"
     ],
     "nss_description": "Granola bar, chewy, chocolate chip",
     "bns_code": "07C",
@@ -24554,7 +24859,9 @@
   {
     "nss_code": 6708,
     "tra_items": [
-      "L04"
+      "L04",
+      "L03",
+      "L05"
     ],
     "nss_description": "Cretons",
     "bns_code": "32A",
@@ -25058,7 +25365,9 @@
   },
   {
     "nss_code": 6965,
-    "tra_items": [],
+    "tra_items": [
+      "B03"
+    ],
     "nss_description": "Yogourt, coffee flavoured (2-3.9% M.F.)",
     "bns_code": "15B",
     "bns_description": "YOGHURTS, MORE THAN 2.1% B.F."
@@ -25405,7 +25714,8 @@
   {
     "nss_code": 7029,
     "tra_items": [
-      "E03"
+      "E03",
+      "E02"
     ],
     "nss_description": "Dessert, frozen, ice cream bar or stick, chocolate covered",
     "bns_code": "09A",
@@ -25630,6 +25940,7 @@
       "A02",
       "A03",
       "A01",
+      "A23",
       "A13",
       "A16"
     ],
@@ -25821,7 +26132,8 @@
   {
     "nss_code": 7129,
     "tra_items": [
-      "U15"
+      "U15",
+      "O02"
     ],
     "nss_description": "Sweets, syrup, agave",
     "bns_code": "41C",
@@ -25890,7 +26202,8 @@
   {
     "nss_code": 7150,
     "tra_items": [
-      "L08"
+      "L08",
+      "L04"
     ],
     "nss_description": "Deli-meat, ham, cooked, fat free, sliced",
     "bns_code": "32A",
@@ -25899,7 +26212,9 @@
   {
     "nss_code": 7151,
     "tra_items": [
-      "L08"
+      "L08",
+      "L04",
+      "L03"
     ],
     "nss_description": "Deli-meat, black forest ham",
     "bns_code": "32A",
@@ -25940,7 +26255,8 @@
   {
     "nss_code": 7156,
     "tra_items": [
-      "L08"
+      "L08",
+      "L04"
     ],
     "nss_description": "Deli-meat, Montreal smoked meat, extra lean",
     "bns_code": "32A",
@@ -25949,7 +26265,9 @@
   {
     "nss_code": 7157,
     "tra_items": [
-      "L08"
+      "L08",
+      "L06",
+      "L04"
     ],
     "nss_description": "Deli-meat, capicollo (cappocollo)",
     "bns_code": "32A",
@@ -25986,7 +26304,8 @@
   {
     "nss_code": 7161,
     "tra_items": [
-      "L03"
+      "L03",
+      "L04"
     ],
     "nss_description": "Deli-meat, salami (Genoa), dry cured",
     "bns_code": "32A",
@@ -25995,7 +26314,8 @@
   {
     "nss_code": 7162,
     "tra_items": [
-      "L05"
+      "L05",
+      "L04"
     ],
     "nss_description": "Deli-meat, summer sausage",
     "bns_code": "32A",
@@ -26004,7 +26324,8 @@
   {
     "nss_code": 7163,
     "tra_items": [
-      "L04"
+      "L04",
+      "L03"
     ],
     "nss_description": "Deli-meat, mortadella",
     "bns_code": "32A",
@@ -26015,6 +26336,7 @@
     "tra_items": [
       "L05",
       "L03",
+      "L04",
       "L11"
     ],
     "nss_description": "Deli-meat, pepperoni",
@@ -26023,7 +26345,9 @@
   },
   {
     "nss_code": 7165,
-    "tra_items": [],
+    "tra_items": [
+      "L05"
+    ],
     "nss_description": "Deli-meat, pepperoni, turkey, reduced fat",
     "bns_code": "32A",
     "bns_description": "LUNCHEON MEAT"
@@ -26031,7 +26355,9 @@
   {
     "nss_code": 7169,
     "tra_items": [
-      "L04"
+      "L04",
+      "L11",
+      "L05"
     ],
     "nss_description": "P!t!, country style peppercorn, glazed",
     "bns_code": "32A",
@@ -26046,7 +26372,9 @@
   },
   {
     "nss_code": 7171,
-    "tra_items": [],
+    "tra_items": [
+      "L04"
+    ],
     "nss_description": "Cretons, veal",
     "bns_code": "32A",
     "bns_description": "LUNCHEON MEAT"
@@ -26296,7 +26624,9 @@
   },
   {
     "nss_code": 7221,
-    "tra_items": [],
+    "tra_items": [
+      "O01"
+    ],
     "nss_description": "Nuts, walnuts, glazed",
     "bns_code": "33A",
     "bns_description": "NUTS"
@@ -26496,6 +26826,7 @@
     "tra_items": [
       "A11",
       "A13",
+      "C05",
       "A12"
     ],
     "nss_description": "Cracker, multigrain",
@@ -26608,7 +26939,9 @@
   },
   {
     "nss_code": 7284,
-    "tra_items": [],
+    "tra_items": [
+      "L04"
+    ],
     "nss_description": "Deli-meat, composite",
     "bns_code": "32A",
     "bns_description": "LUNCHEON MEAT"
@@ -26617,7 +26950,8 @@
     "nss_code": 7285,
     "tra_items": [
       "L08",
-      "L04"
+      "L04",
+      "L03"
     ],
     "nss_description": "Deli-meat, ham, sliced, composite",
     "bns_code": "32A",
@@ -26939,7 +27273,10 @@
     "tra_items": [
       "S03",
       "L03",
-      "L11"
+      "L11",
+      "L01",
+      "L04",
+      "L05"
     ],
     "nss_description": "Meat stick, pepperoni, non-refrigerated",
     "bns_code": "42B",
@@ -27068,7 +27405,8 @@
   {
     "nss_code": 7371,
     "tra_items": [
-      "T01"
+      "T01",
+      "L03"
     ],
     "nss_description": "Soup, broth, beef, ready-to-serve, reduced sodium",
     "bns_code": "50B",
@@ -27484,7 +27822,8 @@
     "nss_code": 7424,
     "tra_items": [
       "L07",
-      "L10"
+      "L10",
+      "L04"
     ],
     "nss_description": "Meatball, Italian style, frozen",
     "bns_code": "22C",
@@ -27749,7 +28088,9 @@
   },
   {
     "nss_code": 7458,
-    "tra_items": [],
+    "tra_items": [
+      "H01"
+    ],
     "nss_description": "Margarine, stick, canola and\/or soybean oil",
     "bns_code": "20A",
     "bns_description": "BLOCK MARGARINE"
@@ -27825,7 +28166,8 @@
   {
     "nss_code": 7470,
     "tra_items": [
-      "H01"
+      "H01",
+      "C10"
     ],
     "nss_description": "Margarine, tub, non-hydrogenated, canola and olive oil",
     "bns_code": "18A",
@@ -29101,6 +29443,7 @@
   {
     "nss_code": 404210,
     "tra_items": [
+      "D13",
       "X01"
     ],
     "nss_description": "MEAL REPLACEMENT, READY TO DRINK, HIGH PROTEIN (ALL FLAVOURS)",
@@ -29217,7 +29560,8 @@
   {
     "nss_code": 404232,
     "tra_items": [
-      "C01"
+      "C01",
+      "C05"
     ],
     "nss_description": "Cereal, hot, multigrain, dry",
     "bns_code": "05A",
@@ -29301,6 +29645,7 @@
     "nss_code": 404242,
     "tra_items": [
       "C04",
+      "C01",
       "A19"
     ],
     "nss_description": "Cereal, ready to eat, granola",
@@ -29921,7 +30266,9 @@
   },
   {
     "nss_code": 500038,
-    "tra_items": [],
+    "tra_items": [
+      "A05"
+    ],
     "nss_description": "Eggnog, made with 2% milk",
     "bns_code": "231D",
     "bns_description": "MILK-BASED BEV. (MILK SHAKES, MALTED MILK, HOT COCOA, INSTANT BREAKFAST, ETC)"
@@ -29994,6 +30341,7 @@
     "tra_items": [
       "R02",
       "R01",
+      "A17",
       "H04"
     ],
     "nss_description": "Dip, sour cream base (Buttermilk type, onion dip; dip, NFS)",
@@ -30004,7 +30352,8 @@
     "nss_code": 500050,
     "tra_items": [
       "E01",
-      "E03"
+      "E03",
+      "A05"
     ],
     "nss_description": "Ice cream, NFS",
     "bns_code": "202A",
@@ -30012,7 +30361,9 @@
   },
   {
     "nss_code": 500056,
-    "tra_items": [],
+    "tra_items": [
+      "E02"
+    ],
     "nss_description": "Ice cream cone with nuts, flavours other than chocolate",
     "bns_code": "202A",
     "bns_description": "ICE CREAM (RECIPE SUB-GROUP)"
@@ -30038,7 +30389,9 @@
   },
   {
     "nss_code": 500059,
-    "tra_items": [],
+    "tra_items": [
+      "E02"
+    ],
     "nss_description": "Ice cream cone, no topping, flavours other than chocolate",
     "bns_code": "202A",
     "bns_description": "ICE CREAM (RECIPE SUB-GROUP)"
@@ -30252,7 +30605,8 @@
     "tra_items": [
       "E05",
       "A06",
-      "E06"
+      "E06",
+      "A05"
     ],
     "nss_description": "Mousse, chocolate",
     "bns_code": "205A",
@@ -30516,7 +30870,9 @@
   {
     "nss_code": 500143,
     "tra_items": [
-      "N01"
+      "N01",
+      "L06",
+      "L10"
     ],
     "nss_description": "Beef, pot roast, cooked, lean and fat eaten (Chuck roast)",
     "bns_code": "210A",
@@ -30539,7 +30895,8 @@
   {
     "nss_code": 500149,
     "tra_items": [
-      "L10"
+      "L10",
+      "L06"
     ],
     "nss_description": "Beef brisket, cooked, lean and fat eaten",
     "bns_code": "210A",
@@ -30591,7 +30948,9 @@
   },
   {
     "nss_code": 500158,
-    "tra_items": [],
+    "tra_items": [
+      "L03"
+    ],
     "nss_description": "Pork, ground or patty, breaded",
     "bns_code": "210B",
     "bns_description": "FRESH PORK AND HAM (RECIPE SUB-GROUP)"
@@ -30710,7 +31069,9 @@
   },
   {
     "nss_code": 500187,
-    "tra_items": [],
+    "tra_items": [
+      "L10"
+    ],
     "nss_description": "Pork steak or cutlet, fried, lean and fat eaten (Floured)",
     "bns_code": "210B",
     "bns_description": "FRESH PORK AND HAM (RECIPE SUB-GROUP)"
@@ -30754,7 +31115,9 @@
   },
   {
     "nss_code": 500193,
-    "tra_items": [],
+    "tra_items": [
+      "L03"
+    ],
     "nss_description": "Ham, fried (Smoked, cured, canned)",
     "bns_code": "210B",
     "bns_description": "FRESH PORK AND HAM (RECIPE SUB-GROUP)"
@@ -31054,7 +31417,9 @@
   },
   {
     "nss_code": 500251,
-    "tra_items": [],
+    "tra_items": [
+      "L06"
+    ],
     "nss_description": "Rabbit, NS as to domestic or wild, cooked",
     "bns_code": "210E",
     "bns_description": "GAME MEAT (RECIPE SUB-GROUP)"
@@ -31567,7 +31932,9 @@
   },
   {
     "nss_code": 500422,
-    "tra_items": [],
+    "tra_items": [
+      "L10"
+    ],
     "nss_description": "Chicken, wing, coated, baked or fried, prepared with skin, skin\/coating eaten (Extra crispy fried chicken)",
     "bns_code": "211A",
     "bns_description": "CHICKEN (RECIPE SUB-GROUP)"
@@ -32677,7 +33044,9 @@
   },
   {
     "nss_code": 500673,
-    "tra_items": [],
+    "tra_items": [
+      "I05"
+    ],
     "nss_description": "Clams, smoked, in oil",
     "bns_code": "212C",
     "bns_description": "SHELLFISH (RECIPE SUB-GROUP)"
@@ -32705,7 +33074,9 @@
   },
   {
     "nss_code": 500678,
-    "tra_items": [],
+    "tra_items": [
+      "I03"
+    ],
     "nss_description": "Lobster, baked or broiled (Saut!ed)",
     "bns_code": "212C",
     "bns_description": "SHELLFISH (RECIPE SUB-GROUP)"
@@ -32720,7 +33091,8 @@
   {
     "nss_code": 500680,
     "tra_items": [
-      "I05"
+      "I05",
+      "I03"
     ],
     "nss_description": "Mussels, cooked",
     "bns_code": "212C",
@@ -32749,7 +33121,9 @@
   },
   {
     "nss_code": 500685,
-    "tra_items": [],
+    "tra_items": [
+      "I03"
+    ],
     "nss_description": "Oysters, canned",
     "bns_code": "212C",
     "bns_description": "SHELLFISH (RECIPE SUB-GROUP)"
@@ -33001,7 +33375,8 @@
   {
     "nss_code": 500720,
     "tra_items": [
-      "L06"
+      "L06",
+      "L10"
     ],
     "nss_description": "Sweet and sour pork",
     "bns_code": "215A",
@@ -33980,7 +34355,8 @@
     "nss_code": 500860,
     "tra_items": [
       "N02",
-      "N03"
+      "N03",
+      "A22"
     ],
     "nss_description": "Beef pot pie (Greek meat pie, sirloin burger pie)",
     "bns_code": "210A",
@@ -34331,7 +34707,9 @@
   },
   {
     "nss_code": 500909,
-    "tra_items": [],
+    "tra_items": [
+      "C11"
+    ],
     "nss_description": "Stew, NS as to meat",
     "bns_code": "210A",
     "bns_description": "BEEF (RECIPE SUB-GROUP)"
@@ -34668,7 +35046,9 @@
   },
   {
     "nss_code": 500960,
-    "tra_items": [],
+    "tra_items": [
+      "Q01"
+    ],
     "nss_description": "Lobster salad",
     "bns_code": "212C",
     "bns_description": "SHELLFISH (RECIPE SUB-GROUP)"
@@ -35353,7 +35733,9 @@
   },
   {
     "nss_code": 501062,
-    "tra_items": [],
+    "tra_items": [
+      "L03"
+    ],
     "nss_description": "Sandwich, salami, with spread",
     "bns_code": "219B",
     "bns_description": "SANDWICHES"
@@ -36430,7 +36812,8 @@
   {
     "nss_code": 501268,
     "tra_items": [
-      "C11"
+      "C11",
+      "A22"
     ],
     "nss_description": "Bread stuffing (Homemade; stuffing, NFS, dressing)",
     "bns_code": "140C",
@@ -36647,6 +37030,7 @@
     "tra_items": [
       "M03",
       "A09",
+      "A22",
       "A02"
     ],
     "nss_description": "Muffin, fruit and\/or nuts (Blueberry, cranberry nut)",
@@ -36656,8 +37040,7 @@
   {
     "nss_code": 501323,
     "tra_items": [
-      "M03",
-      "A09"
+      "M03"
     ],
     "nss_description": "Muffin, whole wheat (Graham)",
     "bns_code": "150E",
@@ -36781,7 +37164,8 @@
     "nss_code": 501342,
     "tra_items": [
       "M03",
-      "A07"
+      "A07",
+      "A06"
     ],
     "nss_description": "Cake, angel food, without icing (frosting)",
     "bns_code": "150A",
@@ -36990,7 +37374,8 @@
     "nss_code": 501383,
     "tra_items": [
       "A06",
-      "A05"
+      "A05",
+      "A07"
     ],
     "nss_description": "Cake, fruit cake, light or dark",
     "bns_code": "150A",
@@ -37026,7 +37411,9 @@
   },
   {
     "nss_code": 501388,
-    "tra_items": [],
+    "tra_items": [
+      "E02"
+    ],
     "nss_description": "Cake, ice cream roll (or cake), not chocolate",
     "bns_code": "202A",
     "bns_description": "ICE CREAM (RECIPE SUB-GROUP)"
@@ -37043,6 +37430,7 @@
   {
     "nss_code": 501392,
     "tra_items": [
+      "A06",
       "A08"
     ],
     "nss_description": "Cake or cupcake, marble, without icing (frosting)",
@@ -37242,7 +37630,8 @@
     "nss_code": 501430,
     "tra_items": [
       "M03",
-      "A06"
+      "A06",
+      "A05"
     ],
     "nss_description": "Cake, shortcake, sponge type, with whipped cream and fruit (Strawberry cake; shortcake, NS as to biscuit or sponge cake type)",
     "bns_code": "150A",
@@ -37300,8 +37689,7 @@
   {
     "nss_code": 501437,
     "tra_items": [
-      "M03",
-      "A04"
+      "M03"
     ],
     "nss_description": "Brownie, butterscotch",
     "bns_code": "150A",
@@ -38078,7 +38466,9 @@
   },
   {
     "nss_code": 501547,
-    "tra_items": [],
+    "tra_items": [
+      "A22"
+    ],
     "nss_description": "Blintze, fruit-filled",
     "bns_code": "150I",
     "bns_description": "FILLED CREPES, BLINTZES, COBBLERS"
@@ -38149,7 +38539,8 @@
   {
     "nss_code": 501557,
     "tra_items": [
-      "A08"
+      "A08",
+      "A22"
     ],
     "nss_description": "Fritter, apple",
     "bns_code": "150C",
@@ -38379,7 +38770,9 @@
   },
   {
     "nss_code": 501588,
-    "tra_items": [],
+    "tra_items": [
+      "A23"
+    ],
     "nss_description": "Pastry, Chinese, made with rice flour (Nine-layer pudding)",
     "bns_code": "150C",
     "bns_description": "DANISHES, TURNOVERS & PASTRIES"
@@ -38393,7 +38786,9 @@
   },
   {
     "nss_code": 501590,
-    "tra_items": [],
+    "tra_items": [
+      "A23"
+    ],
     "nss_description": "Pastry, puff (Angel wings, flaky pastry)",
     "bns_code": "150C",
     "bns_description": "DANISHES, TURNOVERS & PASTRIES"
@@ -38455,7 +38850,9 @@
   },
   {
     "nss_code": 501598,
-    "tra_items": [],
+    "tra_items": [
+      "A08"
+    ],
     "nss_description": "Doughnuts, cake type, chocolate covered (Chocolate doughnut, NFS)",
     "bns_code": "150D",
     "bns_description": "DONUTS"
@@ -38579,7 +38976,8 @@
   {
     "nss_code": 501619,
     "tra_items": [
-      "S01"
+      "S01",
+      "A12"
     ],
     "nss_description": "Shrimp chips (tapioca base)",
     "bns_code": "229A",
@@ -39141,6 +39539,7 @@
     "nss_code": 501712,
     "tra_items": [
       "N02",
+      "A05",
       "N01"
     ],
     "nss_description": "Pizza, cheese, with vegetables, thin crust",
@@ -39781,7 +40180,9 @@
   },
   {
     "nss_code": 501793,
-    "tra_items": [],
+    "tra_items": [
+      "Q03"
+    ],
     "nss_description": "Macaroni or pasta salad with vegetable and vinaigrette (homemade)",
     "bns_code": "130B",
     "bns_description": "MACARONI"
@@ -40141,7 +40542,8 @@
   {
     "nss_code": 501867,
     "tra_items": [
-      "J07"
+      "J07",
+      "C05"
     ],
     "nss_description": "Fruit, dried, NFS, uncooked",
     "bns_code": "225A",
@@ -40691,7 +41093,9 @@
   },
   {
     "nss_code": 501960,
-    "tra_items": [],
+    "tra_items": [
+      "P02"
+    ],
     "nss_description": "Potato, scalloped, with ham",
     "bns_code": "220A",
     "bns_description": "POTATOES (BOILED, MASHED, BAKED, ETC)"
@@ -43330,7 +43734,8 @@
   {
     "nss_code": 502421,
     "tra_items": [
-      "M02"
+      "M02",
+      "A17"
     ],
     "nss_description": "Candies, chocolate-flavoured sprinkles (jimmies)",
     "bns_code": "229A",
@@ -43930,7 +44335,8 @@
     "nss_code": 502545,
     "tra_items": [
       "A13",
-      "A11"
+      "A11",
+      "C01"
     ],
     "nss_description": "Cracker, scotch oat cake",
     "bns_code": "140C",
@@ -43985,7 +44391,9 @@
   },
   {
     "nss_code": 502555,
-    "tra_items": [],
+    "tra_items": [
+      "A22"
+    ],
     "nss_description": "Pie, sugar, one crust (cream\/brown sugar): home recipe",
     "bns_code": "150F",
     "bns_description": "PIES (INCLUDING PIE SHELL)"
@@ -44053,7 +44461,9 @@
   },
   {
     "nss_code": 502568,
-    "tra_items": [],
+    "tra_items": [
+      "A22"
+    ],
     "nss_description": "Pie, sugar, 2 crusts (Qu!bec recipe)",
     "bns_code": "150F",
     "bns_description": "PIES (INCLUDING PIE SHELL)"
@@ -44137,7 +44547,8 @@
     "nss_code": 502585,
     "tra_items": [
       "L07",
-      "L10"
+      "L10",
+      "L02"
     ],
     "nss_description": "Chicken, breaded, fried, boneless, plain, restaurant (chicken nugget)",
     "bns_code": "211A",
@@ -44972,6 +45383,7 @@
     "nss_code": 502850,
     "tra_items": [
       "Q01",
+      "L03",
       "S01"
     ],
     "nss_description": "Tuna salad recipe",
@@ -44981,7 +45393,8 @@
   {
     "nss_code": 502855,
     "tra_items": [
-      "Q03"
+      "Q03",
+      "Q01"
     ],
     "nss_description": "Potato salad without egg",
     "bns_code": "220A",
@@ -45048,7 +45461,8 @@
   {
     "nss_code": 504009,
     "tra_items": [
-      "A03"
+      "A03",
+      "C01"
     ],
     "nss_description": "Bagel, with fruit other than raisins",
     "bns_code": "140C",
@@ -45594,7 +46008,8 @@
   {
     "nss_code": 504092,
     "tra_items": [
-      "N02"
+      "N02",
+      "L06"
     ],
     "nss_description": "Chicken patty, or nuggets, boneless, breaded, potatoes, vegetable (frozen meal)",
     "bns_code": "214A",
@@ -46023,7 +46438,8 @@
   {
     "nss_code": 504152,
     "tra_items": [
-      "Q01"
+      "Q01",
+      "Q03"
     ],
     "nss_description": "Greek Salad",
     "bns_code": "220C",
@@ -46754,7 +47170,9 @@
   },
   {
     "nss_code": 504260,
-    "tra_items": [],
+    "tra_items": [
+      "A17"
+    ],
     "nss_description": "Waffle, fruit",
     "bns_code": "140E",
     "bns_description": "PANCAKES & WAFFLES"
@@ -46877,7 +47295,8 @@
   {
     "nss_code": 504309,
     "tra_items": [
-      "S01"
+      "S01",
+      "J01"
     ],
     "nss_description": "Apple chips",
     "bns_code": "225A",
@@ -48499,7 +48918,8 @@
   {
     "nss_code": 504556,
     "tra_items": [
-      "S01"
+      "S01",
+      "A12"
     ],
     "nss_description": "Salty snack mixture, mostly corn or cornmeal based, with pretzels, without nuts",
     "bns_code": "229A",
@@ -48635,7 +49055,9 @@
   },
   {
     "nss_code": 504578,
-    "tra_items": [],
+    "tra_items": [
+      "O01"
+    ],
     "nss_description": "Sugared pecans (sugar and egg white coating)",
     "bns_code": "226A",
     "bns_description": "NUTS AND SEEDS (RECIPE SUB-GROUP)"
@@ -48673,7 +49095,8 @@
   {
     "nss_code": 504584,
     "tra_items": [
-      "A05"
+      "A05",
+      "A06"
     ],
     "nss_description": "Tiramisu",
     "bns_code": "150A",
@@ -49785,7 +50208,8 @@
     "tra_items": [
       "N01",
       "L10",
-      "N03"
+      "N03",
+      "L06"
     ],
     "nss_description": "Butter Chicken",
     "bns_code": "211A",
@@ -49795,8 +50219,7 @@
     "nss_code": 504764,
     "tra_items": [
       "J01",
-      "J02",
-      "A23"
+      "J02"
     ],
     "nss_description": "Mixed berries, frozen",
     "bns_code": "225A",
@@ -50674,7 +51097,9 @@
   },
   {
     "nss_code": 504911,
-    "tra_items": [],
+    "tra_items": [
+      "Q01"
+    ],
     "nss_description": "Chicken or turkey caesar garden salad (chicken and\/or turkey, lettuce, tomato, cheese), no dressing",
     "bns_code": "220C",
     "bns_description": "SALADS"
@@ -50862,7 +51287,9 @@
   },
   {
     "nss_code": 504937,
-    "tra_items": [],
+    "tra_items": [
+      "L04"
+    ],
     "nss_description": "Sandwich, chicken fillet (breaded, fried), with bacon, tomato, lettuce and spread (BLT chicken sandwich)",
     "bns_code": "219E",
     "bns_description": "OTHER TYPES OF BURGER (CHICKEN, FISH)"
@@ -51550,7 +51977,8 @@
   {
     "nss_code": 505030,
     "tra_items": [
-      "I04"
+      "I04",
+      "I03"
     ],
     "nss_description": "Salmon, canned",
     "bns_code": "212B",
@@ -51773,7 +52201,9 @@
   },
   {
     "nss_code": 505061,
-    "tra_items": [],
+    "tra_items": [
+      "I03"
+    ],
     "nss_description": "Lobster, steamed or boiled",
     "bns_code": "212C",
     "bns_description": "SHELLFISH (RECIPE SUB-GROUP)"
@@ -53239,7 +53669,9 @@
   },
   {
     "nss_code": 505252,
-    "tra_items": [],
+    "tra_items": [
+      "A08"
+    ],
     "nss_description": "Pastry, puff, custard or cream filled, iced or not iced (Napoleon)",
     "bns_code": "150C",
     "bns_description": "DANISHES, TURNOVERS & PASTRIES"
